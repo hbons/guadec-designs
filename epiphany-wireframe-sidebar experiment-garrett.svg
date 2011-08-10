@@ -38,7 +38,7 @@
          offset="0"
          id="stop14681" />
       <stop
-         style="stop-color:#e0e0dd;stop-opacity:1"
+         style="stop-color:#e7e7e4;stop-opacity:1"
          offset="1"
          id="stop14683" />
     </linearGradient>
@@ -177,7 +177,7 @@
        x1="-983.52838"
        y1="282.151"
        x2="-983.52838"
-       y2="219.89757"
+       y2="227.39528"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -255,8 +255,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-774.58046"
-     inkscape:cy="1008.6682"
+     inkscape:cx="-737.42977"
+     inkscape:cy="1142.2119"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
