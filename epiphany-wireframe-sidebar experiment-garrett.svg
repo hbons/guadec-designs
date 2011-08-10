@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-753.48731"
-     inkscape:cy="1042.4975"
+     inkscape:cx="-776.49092"
+     inkscape:cy="1032.2462"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -68,31 +68,31 @@
        y="212.63782"
        transform="scale(1,-1)" />
     <rect
-       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.99999994;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       style="color:black;fill:none;stroke:black;stroke-width:0.99999994;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
        id="rect4099"
        width="1023"
        height="599"
-       x="-1121"
-       y="-265.63782" />
+       x="-1120.5"
+       y="-265.13782" />
     <rect
-       y="-265.63782"
-       x="-1121"
+       y="-265.13782"
+       x="-1120.5"
        height="599"
        width="186"
        id="rect4869"
-       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.99999988;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+       style="color:black;fill:none;stroke:black;stroke-width:0.99999988;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
     <rect
        style="color:black;fill:none;stroke:black;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
        id="rect4871"
        width="22"
        height="23"
        x="-1105.0607"
-       y="-112.67082" />
+       y="-117.67082" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4873"
        style="font-size:12px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:black;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(4.5,125)"><flowRegion
+       transform="translate(4.5,120)"><flowRegion
          id="flowRegion4875"><rect
            id="rect4877"
            width="174"
@@ -106,7 +106,7 @@
        width="22"
        height="23"
        x="-1105.0607"
-       y="-146.67084" />
+       y="-151.67084" />
     <rect
        style="color:black;fill:none;stroke:black;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
        id="rect3086"
@@ -115,7 +115,7 @@
        x="-1112.0607"
        y="-362.67084" />
     <flowRoot
-       transform="translate(4.5,91)"
+       transform="translate(4.5,86)"
        style="font-size:12px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:black;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot4883"
        xml:space="preserve"><flowRegion
@@ -127,14 +127,14 @@
            width="174"
            id="rect4887" /></flowRegion><flowPara
          id="flowPara4889">Twitter</flowPara></flowRoot>    <rect
-       y="-81.170822"
+       y="-86.170822"
        x="-1091.0836"
        height="15.5"
        width="15.034213"
        id="rect4891"
        style="color:black;fill:none;stroke:black;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
     <flowRoot
-       transform="matrix(0.68337332,0,0,0.67391304,-332.83943,78.998645)"
+       transform="matrix(0.68337332,0,0,0.67391304,-332.83943,73.998645)"
        style="font-size:12px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:black;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot4893"
        xml:space="preserve"><flowRegion
@@ -146,14 +146,14 @@
            width="174"
            id="rect4897" /></flowRegion><flowPara
          id="flowPara4899">kitteh </flowPara></flowRoot>    <rect
-       y="-41.170822"
+       y="-46.170822"
        x="-1091.0836"
        height="15.5"
        width="15.034213"
        id="rect4911"
        style="color:black;fill:none;stroke:black;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
     <flowRoot
-       transform="matrix(0.68337332,0,0,0.67391304,-332.83943,118.99865)"
+       transform="matrix(0.68337332,0,0,0.67391304,-332.83943,113.99865)"
        style="font-size:12px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:black;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot4913"
        xml:space="preserve"><flowRegion
@@ -189,7 +189,7 @@
        width="186.32263"
        height="20.152544"
        x="-1121.1178"
-       y="-63.738373" />
+       y="-68.738373" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4989"
@@ -214,12 +214,12 @@
        width="15.034213"
        height="15.5"
        x="-1091.0836"
-       y="-61.170822" />
+       y="-66.170822" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4903"
        style="font-size:12px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:white;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.68337332,0,0,0.67391304,-332.83943,98.998645)"><flowRegion
+       transform="matrix(0.68337332,0,0,0.67391304,-332.83943,93.998645)"><flowRegion
          id="flowRegion4905"><rect
            id="rect4907"
            width="174"
@@ -228,14 +228,14 @@
            y="-234.63782"
            style="font-size:12px;text-align:start;text-anchor:start;fill:white;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara4909">kitteh </flowPara></flowRoot>    <rect
-       y="-12.670822"
+       y="-17.670822"
        x="-1105.0607"
        height="23"
        width="22"
        id="rect3033"
        style="color:black;fill:none;stroke:black;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
     <flowRoot
-       transform="translate(4.5,225)"
+       transform="translate(4.5,220)"
        style="font-size:12px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:black;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot3035"
        xml:space="preserve"><flowRegion
@@ -252,12 +252,12 @@
        width="15.034213"
        height="15.5"
        x="-1091.0836"
-       y="18.829178" />
+       y="13.829178" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3045"
        style="font-size:12px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:black;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.68337332,0,0,0.67391304,-332.83943,178.99865)"><flowRegion
+       transform="matrix(0.68337332,0,0,0.67391304,-332.83943,173.99865)"><flowRegion
          id="flowRegion3047"><rect
            id="rect3049"
            width="174"
@@ -266,14 +266,14 @@
            y="-234.63782"
            style="font-size:12px;text-align:start;text-anchor:start" /></flowRegion><flowPara
          id="flowPara3051">SparkleShare Wiki</flowPara></flowRoot>    <rect
-       y="38.829178"
+       y="33.829178"
        x="-1091.0836"
        height="15.5"
        width="15.034213"
        id="rect3053"
        style="color:black;fill:none;stroke:black;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
     <flowRoot
-       transform="matrix(0.68337332,0,0,0.67391304,-332.83943,198.99865)"
+       transform="matrix(0.68337332,0,0,0.67391304,-332.83943,193.99865)"
        style="font-size:12px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:black;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot3055"
        xml:space="preserve"><flowRegion
@@ -296,18 +296,11 @@
            x="-824"
            y="-82.637817"
            style="fill:#eeeeec" /></flowRegion><flowPara
-         id="flowPara3839">PAGE</flowPara></flowRoot>    <rect
-       style="color:black;fill:none;stroke:black;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-       id="rect3865"
-       width="22"
-       height="23"
-       x="-1105.0607"
-       y="-190.67084" />
-    <flowRoot
+         id="flowPara3839">PAGE</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3867"
        style="font-size:12px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:black;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(4.5,47)"><flowRegion
+       transform="translate(-7,42)"><flowRegion
          id="flowRegion3869"><rect
            id="rect3871"
            width="174"
@@ -316,13 +309,6 @@
            y="-234.63782"
            style="font-size:12px;text-align:start;text-anchor:start" /></flowRegion><flowPara
          id="flowPara3873">New Page</flowPara></flowRoot>    <rect
-       y="-186.67084"
-       x="-1105.0607"
-       height="19"
-       width="22"
-       id="rect3875"
-       style="color:black;fill:none;stroke:black;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
-    <rect
        y="-263.67084"
        x="-934.50433"
        height="36.375"
@@ -636,5 +622,32 @@ Od/6fYBEms3WslON1bnov9x/K4gkYszKH5v6x/gEta/fAAAAAElFTkSuQmCC
 "
        height="16"
        width="16" />
+    <image
+       y="-193.63782"
+       x="-1109"
+       id="image4153"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAANZJREFU
+OI3Fkb8OwVAYxX+ki8Fu5Q2k9QKNwWy2dujiDYikickuYrUaTAYJL9DajRaLVST+9H4GVFsUEXGm
++93z5dz8zoV/K/XMMKyBC+iX0XP7NePRXjohXHdsE8c2CQV9FPCWvg7QrocY850MayChMehEC13q
+nXqZgxJSwMG/7Tu2iQiInFtv9qbBQ+EANjuf5XqLCCglKIHtXvB94agEpaCQyzxGALxWbxZBqFZK
+AIwmbpzIe4YaYR7PV9IeLiTGH9Hvv7GYzyb6WoLnNbpB26+Z/6YTVHJLC8aZchkAAAAASUVORK5C
+YII=
+"
+       height="16"
+       width="16" />
+    <rect
+       y="-265.13782"
+       x="929.5"
+       height="599"
+       width="9.000001"
+       id="rect4869-7"
+       style="color:black;fill:#babdb6;stroke:#888a85;stroke-width:0.99999994000000003;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       transform="scale(-1,1)" />
+    <path
+       style="color:black;fill:#555753;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       d="m -932.2018,30.77424 -4.7982,3.801835 4.79814,3.786108 z"
+       id="rect4997-5-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
   </g>
 </svg>
