@@ -255,8 +255,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-598.46782"
-     inkscape:cy="1015.128"
+     inkscape:cx="-774.58046"
+     inkscape:cy="1008.6682"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -316,7 +316,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="opacity:0.8125;color:#000000;fill:#f8fafc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.79999995;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       style="opacity:0.81250000000000000;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.79999995000000013;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
        id="rect8252"
        width="184"
        height="599"
@@ -446,7 +446,7 @@
        xml:space="preserve"
        id="flowRoot4873"
        style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-       transform="translate(-5.5,115)"><flowRegion
+       transform="translate(-9.5,111)"><flowRegion
          id="flowRegion4875"><rect
            id="rect4877"
            width="174"
@@ -462,7 +462,7 @@
        x="-1112.0607"
        y="-362.67084" />
     <flowRoot
-       transform="translate(-5.825,85)"
+       transform="translate(-9.825,81)"
        style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot4883"
        xml:space="preserve"><flowRegion
@@ -474,7 +474,7 @@
            width="174"
            id="rect4887" /></flowRegion><flowPara
          id="flowPara4889">GNOME</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.68337332,0,0,0.67391304,-333.40193,111.99865)"
+       transform="matrix(0.68337332,0,0,0.67391304,-337.40193,107.99865)"
        style="font-size:16.9459877px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot4913"
        xml:space="preserve"><flowRegion
@@ -503,7 +503,7 @@
        width="180.93094"
        height="24"
        x="-1119.8804"
-       y="-75.585831" />
+       y="-79.585831" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4989"
@@ -517,7 +517,7 @@
            y="-234.63782"
            style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#2e3436;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
          id="flowPara4995">Downloads</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.68337332,0,0,0.67391304,-333.33245,89.24865)"
+       transform="matrix(0.68337332,0,0,0.67391304,-337.33245,85.24865)"
        style="font-size:16.9459877px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#288af4;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
        id="flowRoot11046"
        xml:space="preserve"><flowRegion
@@ -532,7 +532,7 @@
        xml:space="preserve"
        id="flowRoot4903"
        style="font-size:16.9459877px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-       transform="matrix(0.68337332,0,0,0.67391304,-333.33245,88.24865)"><flowRegion
+       transform="matrix(0.68337332,0,0,0.67391304,-337.33245,84.24865)"><flowRegion
          id="flowRegion4905"><rect
            id="rect4907"
            width="174"
@@ -541,7 +541,7 @@
            y="-234.63782"
            style="font-size:16.9459877px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold" /></flowRegion><flowPara
          id="flowPara4909">kitteh </flowPara></flowRoot>    <flowRoot
-       transform="translate(-5.825,217)"
+       transform="translate(-9.825,213)"
        style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot3035"
        xml:space="preserve"><flowRegion
@@ -556,7 +556,7 @@
        xml:space="preserve"
        id="flowRoot3045"
        style="font-size:16.9459877px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="matrix(0.68337332,0,0,0.67391304,-333.30929,162.99865)"><flowRegion
+       transform="matrix(0.68337332,0,0,0.67391304,-337.30929,158.99865)"><flowRegion
          id="flowRegion3047"><rect
            id="rect3049"
            width="174"
@@ -565,7 +565,7 @@
            y="-234.63782"
            style="font-size:16.9459877px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#2e3436;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
          id="flowPara3051">SparkleShare Wiki</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.68337332,0,0,0.67391304,-333.30929,182.99865)"
+       transform="matrix(0.68337332,0,0,0.67391304,-337.30929,178.99865)"
        style="font-size:16.9459877px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot3055"
        xml:space="preserve"><flowRegion
@@ -1584,7 +1584,7 @@ gg==
        height="16"
        width="16" />
     <image
-       transform="translate(1.0054054,-138.02303)"
+       transform="translate(-2.994595,-142.02303)"
        clip-path="url(#clipPath10717)"
        width="29"
        height="30"
@@ -1615,7 +1615,7 @@ h6xaDlfjTjTqhXSN45r+d3LQK456DVf5D4uQe+Z/VGlvAAAAAElFTkSuQmCC
        x="-1100.0138"
        y="59.362183" />
     <flowRoot
-       transform="matrix(0.68337332,0,0,0.67391304,-333.40193,62.99865)"
+       transform="matrix(0.68337332,0,0,0.67391304,-337.40193,58.99865)"
        style="font-size:16.9459877px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot4893"
        xml:space="preserve"><flowRegion
@@ -1656,9 +1656,9 @@ h6xaDlfjTjTqhXSN45r+d3LQK456DVf5D4uQe+Z/VGlvAAAAAElFTkSuQmCC
        height="30"
        width="29"
        clip-path="url(#clipPath10717)"
-       transform="translate(1.0132297,-162.0074)" />
+       transform="translate(-2.98677,-166.0074)" />
     <image
-       transform="translate(1.0054173,-113.02303)"
+       transform="translate(-2.994583,-117.02303)"
        clip-path="url(#clipPath10717)"
        width="29"
        height="30"
@@ -1689,7 +1689,7 @@ h6xaDlfjTjTqhXSN45r+d3LQK456DVf5D4uQe+Z/VGlvAAAAAElFTkSuQmCC
        x="-1100.0138"
        y="59.362183" />
     <image
-       transform="translate(-10.994582,-186.03408)"
+       transform="translate(-14.994582,-190.03408)"
        clip-path="url(#clipPath10717)"
        width="29"
        height="30"
@@ -1737,11 +1737,11 @@ zc21K6XIZrM73gFAsVhkfn4eY8yklFJ2r62tvZ6ammrblfuvpJQfEolE9x98aEfzAtgFsgAAAABJ
 RU5ErkJggg==
 "
        id="image10879"
-       x="-1104.0062"
-       y="-16.645161" />
+       x="-1108.0062"
+       y="-20.645161" />
     <image
-       y="4.3548393"
-       x="-1092.0062"
+       y="0.35483932"
+       x="-1096.0062"
        id="image10881"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAmpJREFU
 OI2Vk09IVFEUh7/73tVxhvHpOGmkQdQigkDSonwLkYjChYlWtOjPooUFrdtUy7aBGrgYWkVDbmwT
@@ -1777,11 +1777,11 @@ zc21K6XIZrM73gFAsVhkfn4eY8yklFJ2r62tvZ6ammrblfuvpJQfEolE9x98aEfzAtgFsgAAAABJ
 RU5ErkJggg==
 "
        id="image10883"
-       x="-1092.0062"
-       y="23.354839" />
+       x="-1096.0062"
+       y="19.354839" />
     <path
        style="opacity:0.98333333;color:#000000;fill:#288af4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-       d="m -1091.9938,-71.654972 1.0137,0 -1.0137,1.039595 z"
+       d="m -1095.9938,-75.654972 1.0137,0 -1.0137,1.039595 z"
        id="rect11054"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
@@ -1789,24 +1789,24 @@ RU5ErkJggg==
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
        id="path11057"
-       d="m -1075.9801,-71.654972 -1.0137,0 1.0137,1.039595 z"
+       d="m -1079.9801,-75.654972 -1.0137,0 1.0137,1.039595 z"
        style="opacity:0.98333333;color:#000000;fill:#288af4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
     <path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
        id="path11059"
-       d="m -1091.9938,-55.615377 1.0137,0 -1.0137,-1.039595 z"
+       d="m -1095.9938,-59.615377 1.0137,0 -1.0137,-1.039595 z"
        style="opacity:0.98333333;color:#000000;fill:#288af4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
     <path
        style="opacity:0.98333333;color:#000000;fill:#288af4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-       d="m -1075.9801,-55.615377 -1.0137,0 1.0137,-1.039595 z"
+       d="m -1079.9801,-59.615377 -1.0137,0 1.0137,-1.039595 z"
        id="path11061"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <g
        id="g16"
        style="display:inline;enable-background:new"
-       transform="translate(-1103.9872,-149.63001)">
+       transform="translate(-1107.9872,-153.63001)">
       <g
          id="g2886"
          style="opacity:0.5">
@@ -1923,11 +1923,11 @@ RU5ErkJggg==
          id="flowPara14143">kitteh - Google</flowPara></flowRoot>    <rect
        transform="scale(1,-1)"
        y="166.63782"
-       x="-1118"
+       x="-1120"
        height="1"
-       width="176"
+       width="181"
        id="rect14171"
-       style="color:#000000;fill:#daedff;fill-opacity:1;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+       style="color:#000000;fill:#ededed;fill-opacity:1;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
     <g
        id="g14192"
        transform="translate(142.95312,-76.140625)">
@@ -1979,7 +1979,7 @@ RU5ErkJggg==
     </g>
     <path
        style="opacity:0.98333333;color:#000000;fill:#f8fafc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-       d="m -956.09375,-70.625 c -1.07338,0 -1.9375,0.864125 -1.9375,1.9375 l 0,10.125 c 0,1.073375 0.86412,1.9375 1.9375,1.9375 l 10.125,0 c 1.07338,0 1.9375,-0.864125 1.9375,-1.9375 l 0,-10.125 c 0,-1.073375 -0.86412,-1.9375 -1.9375,-1.9375 z m 1.90625,2.96875 c 0.0312,-0.0015 0.0625,-0.0015 0.0937,0 0.29918,-0.02492 0.60713,0.09352 0.8125,0.3125 l 2.25,2.25 2.25,-2.25 c 0.17727,-0.187633 0.42957,-0.302314 0.6875,-0.3125 0.80912,-0.04547 1.33361,1.156482 0.75,1.71875 l -2.28125,2.25 2.28125,2.28125 c 0.36833,0.3763 0.36098,1.053858 -0.0154,1.42208 -0.37641,0.368222 -1.05397,0.36068 -1.42208,-0.01583 l -2.25,-2.25 -2.25,2.25 c -0.35098,0.435541 -1.09038,0.475175 -1.4859,0.07965 -0.39553,-0.395525 -0.35589,-1.134924 0.0797,-1.4859 l 2.25,-2.28125 -2.25,-2.25 c -0.54282,-0.501309 -0.22703,-1.586852 0.5,-1.71875 z"
+       d="m -956.09375,-74.625 c -1.07338,0 -1.9375,0.864125 -1.9375,1.9375 l 0,10.125 c 0,1.073375 0.86412,1.9375 1.9375,1.9375 l 10.125,0 c 1.07338,0 1.9375,-0.864125 1.9375,-1.9375 l 0,-10.125 c 0,-1.073375 -0.86412,-1.9375 -1.9375,-1.9375 z m 1.90625,2.96875 c 0.0312,-0.0015 0.0625,-0.0015 0.0937,0 0.29918,-0.02492 0.60713,0.09352 0.8125,0.3125 l 2.25,2.25 2.25,-2.25 c 0.17727,-0.187633 0.42957,-0.302314 0.6875,-0.3125 0.80912,-0.04547 1.33361,1.156482 0.75,1.71875 l -2.28125,2.25 2.28125,2.28125 c 0.36833,0.3763 0.36098,1.053858 -0.0154,1.42208 -0.37641,0.368222 -1.05397,0.36068 -1.42208,-0.01583 l -2.25,-2.25 -2.25,2.25 c -0.35098,0.435541 -1.09038,0.475175 -1.4859,0.07965 -0.39553,-0.395525 -0.35589,-1.134924 0.0797,-1.4859 l 2.25,-2.28125 -2.25,-2.25 c -0.54282,-0.501309 -0.22703,-1.586852 0.5,-1.71875 z"
        id="rect14230"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ssssssssscccccccccscccsccccc" />
@@ -1987,7 +1987,7 @@ RU5ErkJggg==
        sodipodi:nodetypes="ssssssssscccccccccscccsccccc"
        inkscape:connector-curvature="0"
        id="path14271"
-       d="m -956.09375,-94.625 c -1.07338,0 -1.9375,0.864125 -1.9375,1.9375 l 0,10.125 c 0,1.073375 0.86412,1.9375 1.9375,1.9375 l 10.125,0 c 1.07338,0 1.9375,-0.864125 1.9375,-1.9375 l 0,-10.125 c 0,-1.073375 -0.86412,-1.9375 -1.9375,-1.9375 z m 1.90625,2.96875 c 0.0312,-0.0015 0.0625,-0.0015 0.0937,0 0.29918,-0.02492 0.60713,0.09352 0.8125,0.3125 l 2.25,2.25 2.25,-2.25 c 0.17727,-0.187633 0.42957,-0.302314 0.6875,-0.3125 0.80912,-0.04547 1.33361,1.156482 0.75,1.71875 l -2.28125,2.25 2.28125,2.28125 c 0.36833,0.3763 0.36098,1.053858 -0.0154,1.42208 -0.37641,0.368222 -1.05397,0.36068 -1.42208,-0.01583 l -2.25,-2.25 -2.25,2.25 c -0.35098,0.435541 -1.09038,0.475175 -1.4859,0.07965 -0.39553,-0.395525 -0.35589,-1.134924 0.0797,-1.4859 l 2.25,-2.28125 -2.25,-2.25 c -0.54282,-0.501309 -0.22703,-1.586852 0.5,-1.71875 z"
+       d="m -956.09375,-98.625 c -1.07338,0 -1.9375,0.864125 -1.9375,1.9375 l 0,10.125 c 0,1.073375 0.86412,1.9375 1.9375,1.9375 l 10.125,0 c 1.07338,0 1.9375,-0.864125 1.9375,-1.9375 l 0,-10.125 c 0,-1.073375 -0.86412,-1.9375 -1.9375,-1.9375 z m 1.90625,2.96875 c 0.0312,-0.0015 0.0625,-0.0015 0.0937,0 0.29918,-0.02492 0.60713,0.09352 0.8125,0.3125 l 2.25,2.25 2.25,-2.25 c 0.17727,-0.187633 0.42957,-0.302314 0.6875,-0.3125 0.80912,-0.04547 1.33361,1.156482 0.75,1.71875 l -2.28125,2.25 2.28125,2.28125 c 0.36833,0.3763 0.36098,1.053858 -0.0154,1.42208 -0.37641,0.368222 -1.05397,0.36068 -1.42208,-0.01583 l -2.25,-2.25 -2.25,2.25 c -0.35098,0.435541 -1.09038,0.475175 -1.4859,0.07965 -0.39553,-0.395525 -0.35589,-1.134924 0.0797,-1.4859 l 2.25,-2.28125 -2.25,-2.25 c -0.54282,-0.501309 -0.22703,-1.586852 0.5,-1.71875 z"
        style="opacity:0.98333333;color:#000000;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
     <path
        style="fill:none;stroke:#aeafa9;stroke-width:1px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
