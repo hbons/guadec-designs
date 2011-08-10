@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="epiphany.svg">
+   sodipodi:docname="epiphany-wireframe-sidebar experiment-garrett.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-882.48731"
-     inkscape:cy="1063.4975"
+     inkscape:cx="-876.48731"
+     inkscape:cy="1038.4975"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -107,14 +107,23 @@
        x="-1112.0607"
        y="-362.67084" />
     <rect
-       y="-311.13782"
-       x="-1092.5"
+       ry="6"
+       rx="6"
+       style="color:black;fill:#d5e7eb;fill-opacity:0.54509804;stroke:#a7dbee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       id="rect4060"
+       width="31"
+       height="31.000002"
+       x="-1110.5"
+       y="-255.13782" />
+    <rect
+       y="-255.13782"
+       x="-1072.5"
        height="31.000002"
        width="31"
        id="rect4881"
-       style="color:black;fill:#d5e7eb;fill-opacity:0.54509804;stroke:#d5e7eb;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-       rx="5"
-       ry="5" />
+       style="color:black;fill:#ffe6e5;fill-opacity:1;stroke:#ffbab8;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       rx="6"
+       ry="6" />
     <flowRoot
        transform="translate(4.5,91)"
        style="font-size:12px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:black;fill-opacity:1;stroke:none;font-family:Sans"
@@ -511,8 +520,8 @@ QmCC
        height="16"
        width="16" />
     <image
-       y="-303.63782"
-       x="-1085"
+       y="-247.63782"
+       x="-1103"
        id="image3133"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAlJJREFU
 OI3FUk1Ik3Ecfv7v//3e2sbEmVtuqZmHFSzyFJKKkSUJEnXo1E5FncKPjkkFRQc79GHpRS+lfSAG
@@ -550,8 +559,8 @@ rQAAAABJRU5ErkJggg==
        height="16"
        width="16" />
     <image
-       y="-188.63782"
-       x="-1191"
+       y="-247.63782"
+       x="-1065"
        id="image3155"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAPlJREFU
 OI3VkKFuAkEURQ8N2QSxFkWymxU1zSQIyGowKEDzFVtfQZqAh09ZMKD4gDVoFGRRCEJw1DzEZKez
