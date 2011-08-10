@@ -17,7 +17,29 @@
    inkscape:version="0.48.1 r9760"
    sodipodi:docname="epiphany-wireframe-sidebar experiment-garrett.svg">
   <defs
-     id="defs4" />
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5484">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5486" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5488" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5484"
+       id="linearGradient5490"
+       x1="-1328.6522"
+       y1="-143.66132"
+       x2="-1318.4084"
+       y2="-130.40308"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,14 +47,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="-623.99092"
-     inkscape:cy="981.24624"
+     inkscape:zoom="11.313708"
+     inkscape:cx="-1281.2167"
+     inkscape:cy="1174.7777"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1400"
-     inkscape:window-height="996"
+     inkscape:window-width="1440"
+     inkscape:window-height="843"
      inkscape:window-x="0"
      inkscape:window-y="26"
      inkscape:window-maximized="1"
@@ -51,7 +73,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -460,71 +482,28 @@
        y="-329.63782"
        x="-1247"
        id="image3100"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAi1JREFU
-OI2NkTFoU1EYhb/73o1tkxeaBptCse2DSgeLUnGwggrq7NBBqZs4COLm7qyL4CwuuqioBEQQUaiI
-m21dLJFSMWqpTWyb2iSa5N3/Xoc0xVoKOXC3ew7fOb/ad/XRWLonyKZ7EmEQdNKOKpUaa6Vqfq1U
-mdA9qXj22tmxcCTTjVKqrQDnHPPFX+GtZ7NZ3Z3sDOuieZpbR5xrK8BXipFUjHQqHurOPZq5nzWK
-f6JdDQcyXQylOnj7pUw1EgCiSIj5HlpEqNQMUWTpTWiODgZMfd6g2rAAjPZ1cf1UPwDWWp7n1ps7
-KIOI4FkRxAh1IyyWqpwcinPv/DBXxjPEPMe5g+ktkotHejkeBtRN02NF0NYIxggSCaCo1JpVzuzv
-ZnwwILHH31bnwtheMnHNm/l1rGkRiMOIxYjl/vvC1uf/zQB9QYzTwwk6lMOK4Bmx+LaJJEb48L3M
-k5nFXQd9t7DK5N0ZSpUGRiyeEcGzjmODARIJIooXH1d3DXg8WwQvjmcdRgRtxOI5x7eVDR5cGmV5
-I+LwQHKHsVyLuP1qgemvZQA816ytZZNgrlBn8s40l08M0JfU9Ke6AFgq/WbqU4GHM0WWy3Yr0LMO
-aRH4OGpiqYni5utFbrzMg2teBeWhfL2DyKdFYARMg6TvUaybVv7mAxxg7DZzpkODaSCRQbvI5Aul
-Yngo1YufCnYd71+JabBUKuKM5LUSmcgtrWRzP1bDttwtOZdX1k78BaI1KiD+gUFrAAAAAElFTkSu
-QmCC
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAi1JREFU OI2NkTFoU1EYhb/73o1tkxeaBptCse2DSgeLUnGwggrq7NBBqZs4COLm7qyL4CwuuqioBEQQUaiI m21dLJFSMWqpTWyb2iSa5N3/Xoc0xVoKOXC3ew7fOb/ad/XRWLonyKZ7EmEQdNKOKpUaa6Vqfq1U mdA9qXj22tmxcCTTjVKqrQDnHPPFX+GtZ7NZ3Z3sDOuieZpbR5xrK8BXipFUjHQqHurOPZq5nzWK f6JdDQcyXQylOnj7pUw1EgCiSIj5HlpEqNQMUWTpTWiODgZMfd6g2rAAjPZ1cf1UPwDWWp7n1ps7 KIOI4FkRxAh1IyyWqpwcinPv/DBXxjPEPMe5g+ktkotHejkeBtRN02NF0NYIxggSCaCo1JpVzuzv ZnwwILHH31bnwtheMnHNm/l1rGkRiMOIxYjl/vvC1uf/zQB9QYzTwwk6lMOK4Bmx+LaJJEb48L3M k5nFXQd9t7DK5N0ZSpUGRiyeEcGzjmODARIJIooXH1d3DXg8WwQvjmcdRgRtxOI5x7eVDR5cGmV5 I+LwQHKHsVyLuP1qgemvZQA816ytZZNgrlBn8s40l08M0JfU9Ke6AFgq/WbqU4GHM0WWy3Yr0LMO aRH4OGpiqYni5utFbrzMg2teBeWhfL2DyKdFYARMg6TvUaybVv7mAxxg7DZzpkODaSCRQbvI5Aul Yngo1YufCnYd71+JabBUKuKM5LUSmcgtrWRzP1bDttwtOZdX1k78BaI1KiD+gUFrAAAAAElFTkSu QmCC "
        height="16"
        width="16" />
     <image
-       y="-145.63782"
+       y="-345.63782"
        x="-1290"
        id="image3166"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAmxJREFU
-OI2FU0tMU0EUPa+UtCR8SiIrCEtjiEsfJi0SyTMNRCyhJRFYFYroRl2AlA30WQKUlkUDwQ0xNCAW
-ZCmsLIlCIkswpkgQPwjGXyJtIf1sOC5IB96CeJPJ3Dkzc++5585IVRYLlRsKDAYDCouKIEkSSCIR
-jyMWj+E8yzPmYTmyDKiqhyQ5FQoRgBhToRD/Z6rqoY4kfv/5hTanExazGRNPJmAxm9HmdOLTl48A
-AFdHOyRJgiRJcHW0CxapdAo5dXW16trbNdTUXMf09AxkWUa7ywVJAjbW3yEajWJocEhcWl/fQG6u
-HtXV1YgsR6DLRmppbdbU2NLajHQmDV2ODgAwPj4OknD39iBxmDg96PH0c29/lwX5em5tb5Ikt7Y3
-WZCv597+Lvv7+zg2Nqap/e69TpKku7eH+nQmjbLScvT1DeLSxQoR2D8ygrLSchwfH+Po6FDg7t4e
-lFwowVlARA7PzxEAw/NzArM12DTdAUBbg00w0GUDBfx+jPr8AIBRnx8B/4nvcDTBbm8UCe32Rjgc
-TVoNDmJ/CYAkNfOPn9+ZyaRF1iybeCJ2ysBkKsbVKzKCwaCmC8FgEDdr62EwGJFMJWG1WmG1WpFM
-JVFUaMK3/a8wGoyAzzfMBw/vi6zTMzOCxZ3ODu583hZ7WTz64T3frLymqnooRBwY8PJyRQVJslKW
-6fU+FkI+m52loihUFIXPw2GBa0RcfLmI2y0nj6n+Vj2WFpdEOQsLL9DV3YXuR914OjmpKVV8piy9
-rJ1dn+erqof61ZVVXKuqAgD4fMM4iB2g2FQMAAIHgNFAQPiVsgy7w47Iqwj+AVXFxO3y3UJ+AAAA
-AElFTkSuQmCC
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAmxJREFU OI2FU0tMU0EUPa+UtCR8SiIrCEtjiEsfJi0SyTMNRCyhJRFYFYroRl2AlA30WQKUlkUDwQ0xNCAW ZCmsLIlCIkswpkgQPwjGXyJtIf1sOC5IB96CeJPJ3Dkzc++5585IVRYLlRsKDAYDCouKIEkSSCIR jyMWj+E8yzPmYTmyDKiqhyQ5FQoRgBhToRD/Z6rqoY4kfv/5hTanExazGRNPJmAxm9HmdOLTl48A AFdHOyRJgiRJcHW0CxapdAo5dXW16trbNdTUXMf09AxkWUa7ywVJAjbW3yEajWJocEhcWl/fQG6u HtXV1YgsR6DLRmppbdbU2NLajHQmDV2ODgAwPj4OknD39iBxmDg96PH0c29/lwX5em5tb5Ikt7Y3 WZCv597+Lvv7+zg2Nqap/e69TpKku7eH+nQmjbLScvT1DeLSxQoR2D8ygrLSchwfH+Po6FDg7t4e lFwowVlARA7PzxEAw/NzArM12DTdAUBbg00w0GUDBfx+jPr8AIBRnx8B/4nvcDTBbm8UCe32Rjgc TVoNDmJ/CYAkNfOPn9+ZyaRF1iybeCJ2ysBkKsbVKzKCwaCmC8FgEDdr62EwGJFMJWG1WmG1WpFM JVFUaMK3/a8wGoyAzzfMBw/vi6zTMzOCxZ3ODu583hZ7WTz64T3frLymqnooRBwY8PJyRQVJslKW 6fU+FkI+m52loihUFIXPw2GBa0RcfLmI2y0nj6n+Vj2WFpdEOQsLL9DV3YXuR914OjmpKVV8piy9 rJ1dn+erqof61ZVVXKuqAgD4fMM4iB2g2FQMAAIHgNFAQPiVsgy7w47Iqwj+AVXFxO3y3UJ+AAAA AElFTkSuQmCC "
        height="16"
        width="16" />
     <image
-       y="-45.637817"
+       y="-325.63782"
        x="-1272"
        id="image3177"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAilJREFU
-OI1jYKAhYJKQYPeSkGAQZWBgYBAX54wQF+U4JSbKccTZz1kcpy4lKSk5BQUFBVlZqXB5OYn/MbEx
-a2RlZe3kZMX/ystJ/FdSkPt/7tyZOrgt6AYwc/OskVdQ3C0sIMbPxs7P4ODgKM/OzhHIziHAxMbO
-zxAaGc1gaGi8D8MATU2dQG09w2BmFtbHYpISKu197dc8fbyeBgUHrmdhY/vEysrK4BPgx1BTVdnG
-yMh4BKaPBc5gZQ8RFhEKzMlKt5BTkBNYt2bd1Xcfv+Q7Onmx8AsI/enr6VhuZWm1hZGRcRmyi+EG
-8AnzNTk4OPhLykiqpqXnPWJgYHjKwMDAycjIwPDz52+G7NyiN8rqyvUYIQ1jHN2//yYPv6B9QUnN
-dCZW1gQmVlZOJlZWBgRmEwnw869EN4AFmbNi5dosBiYmUSYWNozYMTU1Zgjw9TmJ1wAGFhYDRkZG
-FCFWVhaG2KjwfzGhQY283Nwz8RvAzHqbgZHRCMZVUVNiqCnKuqClqpam6eJyD8NZDGjp4A8T09z/
-zCwM/5lZGFi5uBgmt9Uvnb1suaOpa9AKHia+NzG55QvxGnBh76bdbJxc8/4zsTL8/P2fITit9NXB
-49ci/jOzKv1nYmWIDvHRQTeAEV3g4sWL3BNXbNl46eJ15////8PFY0J9/hUkRvgzMjJuwWsAAwMD
-w////5l3HD6Rd+P+4yxOdg4VXVX561ZGepWMjIwbsamnCAAA9h2NV4zpxwAAAAAASUVORK5CYII=
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAilJREFU OI1jYKAhYJKQYPeSkGAQZWBgYBAX54wQF+U4JSbKccTZz1kcpy4lKSk5BQUFBVlZqXB5OYn/MbEx a2RlZe3kZMX/ystJ/FdSkPt/7tyZOrgt6AYwc/OskVdQ3C0sIMbPxs7P4ODgKM/OzhHIziHAxMbO zxAaGc1gaGi8D8MATU2dQG09w2BmFtbHYpISKu197dc8fbyeBgUHrmdhY/vEysrK4BPgx1BTVdnG yMh4BKaPBc5gZQ8RFhEKzMlKt5BTkBNYt2bd1Xcfv+Q7Onmx8AsI/enr6VhuZWm1hZGRcRmyi+EG 8AnzNTk4OPhLykiqpqXnPWJgYHjKwMDAycjIwPDz52+G7NyiN8rqyvUYIQ1jHN2//yYPv6B9QUnN dCZW1gQmVlZOJlZWBgRmEwnw869EN4AFmbNi5dosBiYmUSYWNozYMTU1Zgjw9TmJ1wAGFhYDRkZG FCFWVhaG2KjwfzGhQY283Nwz8RvAzHqbgZHRCMZVUVNiqCnKuqClqpam6eJyD8NZDGjp4A8T09z/ zCwM/5lZGFi5uBgmt9Uvnb1suaOpa9AKHia+NzG55QvxGnBh76bdbJxc8/4zsTL8/P2fITit9NXB 49ci/jOzKv1nYmWIDvHRQTeAEV3g4sWL3BNXbNl46eJ15////8PFY0J9/hUkRvgzMjJuwWsAAwMD w////5l3HD6Rd+P+4yxOdg4VXVX561ZGepWMjIwbsamnCAAA9h2NV4zpxwAAAAAASUVORK5CYII= "
        height="16"
        width="16" />
     <image
-       y="-204.63782"
+       y="-404.63782"
        x="-1273"
        id="image3188"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAASRJREFU
-OI2N07FLQlEUBvCfNjkJgZMgCEHQ2hS09ge0hSAITk2trf0TrU1BEAiurUIQBILQ1pK0CRE4hFG8
-Bo9yteerDy7vcs/3feeec+4r2YwGarGfYFzAXUELQ2R4j5XFWatIWMEtpjjDbhLbibNpcCp5Bj0M
-cByCdTRwFJxe3rVfUcVVXHmAR4zim+EiOC/r5QzRjf11kPPWdXC6oQF1zKKuGr4KDDLsBXeGehlN
-8xF9hNlWXoMSbAd3jGZ5LfiMzz8Mfr2HtARoF5RxGZxlCQuTETpBaEfgPBHe4DBJ2gnNEi3z0VRx
-hz4eEoP7hJs7RiEaRPYD88eyMFhkqwenvxClTTzBG56wj+8kVsFpxCbB3Yh2ZFxv4ChiKygVGP3r
-d/4BAvJgvqp+rpMAAAAASUVORK5CYII=
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAASRJREFU OI2N07FLQlEUBvCfNjkJgZMgCEHQ2hS09ge0hSAITk2trf0TrU1BEAiurUIQBILQ1pK0CRE4hFG8 Bo9yteerDy7vcs/3feeec+4r2YwGarGfYFzAXUELQ2R4j5XFWatIWMEtpjjDbhLbibNpcCp5Bj0M cByCdTRwFJxe3rVfUcVVXHmAR4zim+EiOC/r5QzRjf11kPPWdXC6oQF1zKKuGr4KDDLsBXeGehlN 8xF9hNlWXoMSbAd3jGZ5LfiMzz8Mfr2HtARoF5RxGZxlCQuTETpBaEfgPBHe4DBJ2gnNEi3z0VRx hz4eEoP7hJs7RiEaRPYD88eyMFhkqwenvxClTTzBG56wj+8kVsFpxCbB3Yh2ZFxv4ChiKygVGP3r d/4BAvJgvqp+rpMAAAAASUVORK5CYII= "
        height="16"
        width="16" />
     <rect
@@ -558,61 +537,28 @@ d/4BAvJgvqp+rpMAAAAASUVORK5CYII=
        y="-247.63782"
        x="-1103"
        id="image3133"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAlJJREFU
-OI3FUk1Ik3Ecfv7v//3e2sbEmVtuqZmHFSzyFJKKkSUJEnXo1E5FncKPjkkFRQc79GHpRS+lfSAG
-GWSHTAJhXoKSSfrOEiazD9/VnL7bet9/h1A2LOgQ9Bx/H8/v93ueH/C/Qf62cHByOhxPrZXDAjoO
-1XStxzkAiMUWA5qmOf/U3P74dX/36Fz/yNTntuB2Vy4/xwFAIpPbfbw3kjw9MD48ODkdLpgciYYn
-oithweWBKbnsFx7OXZ6IztcVnKDreiCaNC51Ppo+lkkbqshy+tHaspsdB2u6DtwYi6d/OLycrAKM
-wVxNYc82buzOiX1NBRpoy8u1JwdnXphZKrNcBuZaGt4S5c3Sdy5EbU4QwgEALDMHktNXr7ZUNMe/
-rJZzG7vq+tve1p19ok0yeNUF3lmET2k5RGU7SJ7WhPKwmE1tvz8zLlDRv0FQWVn5zSmy27t8fIyX
-iUEFGZyiglAeIHkEDHAV2/TqYOl8fCXjK7BxdvaZ5Pc3tp4anb0yl7AqyG9cZsxCW0PRUMsOz3PT
-NOe5iyOT12OxxQAAVFU1ZyRJerA/YIvAsjb7yRgciqU3+V3XRFEcUBTlFXm3sHT23L2p86rC6TZZ
-SL5fSNXzW9ygdgc4KhT0U940elp8t4KlxZ0bf+CRyfDQmca71VU+I6YL9YK7BFS1gyN8weStRTTR
-c6Ssr5iy7nxSknf74cWU0fBUS4YiibWyXymGoFta2utTPtYF3C+TX5NPPB5PYhPBOjRNc3q93hCl
-tHw9ZllWIpvNfnA4HDObRfkH+Amwpd44boRWIgAAAABJRU5ErkJggg==
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAlJJREFU OI3FUk1Ik3Ecfv7v//3e2sbEmVtuqZmHFSzyFJKKkSUJEnXo1E5FncKPjkkFRQc79GHpRS+lfSAG GWSHTAJhXoKSSfrOEiazD9/VnL7bet9/h1A2LOgQ9Bx/H8/v93ueH/C/Qf62cHByOhxPrZXDAjoO 1XStxzkAiMUWA5qmOf/U3P74dX/36Fz/yNTntuB2Vy4/xwFAIpPbfbw3kjw9MD48ODkdLpgciYYn oithweWBKbnsFx7OXZ6IztcVnKDreiCaNC51Ppo+lkkbqshy+tHaspsdB2u6DtwYi6d/OLycrAKM wVxNYc82buzOiX1NBRpoy8u1JwdnXphZKrNcBuZaGt4S5c3Sdy5EbU4QwgEALDMHktNXr7ZUNMe/ rJZzG7vq+tve1p19ok0yeNUF3lmET2k5RGU7SJ7WhPKwmE1tvz8zLlDRv0FQWVn5zSmy27t8fIyX iUEFGZyiglAeIHkEDHAV2/TqYOl8fCXjK7BxdvaZ5Pc3tp4anb0yl7AqyG9cZsxCW0PRUMsOz3PT NOe5iyOT12OxxQAAVFU1ZyRJerA/YIvAsjb7yRgciqU3+V3XRFEcUBTlFXm3sHT23L2p86rC6TZZ SL5fSNXzW9ygdgc4KhT0U940elp8t4KlxZ0bf+CRyfDQmca71VU+I6YL9YK7BFS1gyN8weStRTTR c6Ssr5iy7nxSknf74cWU0fBUS4YiibWyXymGoFta2utTPtYF3C+TX5NPPB5PYhPBOjRNc3q93hCl tHw9ZllWIpvNfnA4HDObRfkH+Amwpd44boRWIgAAAABJRU5ErkJggg== "
        height="16"
        width="16" />
     <image
        y="-247.63782"
        x="-1067"
        id="image3155"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAPlJREFU
-OI3VkKFuAkEURQ8N2QSxFkWymxU1zSQIyGowKEDzFVtfQZqAh09ZMKD4gDVoFGRRCEJw1DzEZKez
-Zahur3pv5p773gz8e1VyYimaetLHa77+Cnxtd5zmS3cAQCP9hEHPTS/WHIfj0tGLPd1XkTYs1k9h
-X0XUk/73eU4sObGIiNySiVzUSPfpSozSleTEclEjuSUTEREpuKo9xJt9wPsUgONwTCPF1L6KqHXf
-tMdSKQDA67ZMXbzXwNadO+Cwh/P1wWjg81V7gtARcNjDJoNOG4IQb9AzzzFrG49rAwsu/YmtINTw
-JnME/ICfqghxbkD24P/7ugPjF22T9Z6l8wAAAABJRU5ErkJggg==
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAPlJREFU OI3VkKFuAkEURQ8N2QSxFkWymxU1zSQIyGowKEDzFVtfQZqAh09ZMKD4gDVoFGRRCEJw1DzEZKez Zahur3pv5p773gz8e1VyYimaetLHa77+Cnxtd5zmS3cAQCP9hEHPTS/WHIfj0tGLPd1XkTYs1k9h X0XUk/73eU4sObGIiNySiVzUSPfpSozSleTEclEjuSUTEREpuKo9xJt9wPsUgONwTCPF1L6KqHXf tMdSKQDA67ZMXbzXwNadO+Cwh/P1wWjg81V7gtARcNjDJoNOG4IQb9AzzzFrG49rAwsu/YmtINTw JnME/ICfqghxbkD24P/7ugPjF22T9Z6l8wAAAABJRU5ErkJggg== "
        height="16"
        width="16" />
     <image
        y="-247.63782"
        x="-1030.5"
        id="image4088"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAaxJREFU
-OI2dj89qE1EUxn/nMmQKCWqMCU0tOirJQqp0rbhSN64sBfVBBBW6U9BXcOtCaaEM9BV8gIJ/qqUg
-owYJFVQGQyeZuee6CIbcZgTp2dz73fv7Ps4nzxvtZYEYiADu311jelrnXnj6cf0YAM6R4OxKkDkX
-L928Hl3sdpkT4dON257h+GlPcq8+R5ZZ3u/uRR92XsdB5lzU+vGLNN4iBV6duuUZTg63PP3gbIUQ
-6DQb7GRpFGTOMfy4S1ZYAPrfU8/wu9nztDbGZ5UEO0wJEluwfXAwAfLPe54hNT89vV0MJ/fk6wjp
-dLruzOIiR5kvvR6BqlIUxZECVJXAWsVai3NuBnjy9BkAa48ezvyJCNYqgapFRMjzfAaq1WoApRtW
-KhVU7biCiHjQxuamB79cXwfgzurq5C0Mw3EFVcUY4wXU6ydKO08zxpipgEMbXLtyFYA3794CcHnp
-0kyYEfE3sCU9jTEA//xTVQKnSmEtYRgyGAw8qHP+QmmVarVKYS1OlQBI+vv70cL8PO2Fdqnh8IxG
-Od/6fYBEms3WslON1bnov9x/K4gkYszKH5v6x/gEta/fAAAAAElFTkSuQmCC
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAaxJREFU OI2dj89qE1EUxn/nMmQKCWqMCU0tOirJQqp0rbhSN64sBfVBBBW6U9BXcOtCaaEM9BV8gIJ/qqUg owYJFVQGQyeZuee6CIbcZgTp2dz73fv7Ps4nzxvtZYEYiADu311jelrnXnj6cf0YAM6R4OxKkDkX L928Hl3sdpkT4dON257h+GlPcq8+R5ZZ3u/uRR92XsdB5lzU+vGLNN4iBV6duuUZTg63PP3gbIUQ 6DQb7GRpFGTOMfy4S1ZYAPrfU8/wu9nztDbGZ5UEO0wJEluwfXAwAfLPe54hNT89vV0MJ/fk6wjp dLruzOIiR5kvvR6BqlIUxZECVJXAWsVai3NuBnjy9BkAa48ezvyJCNYqgapFRMjzfAaq1WoApRtW KhVU7biCiHjQxuamB79cXwfgzurq5C0Mw3EFVcUY4wXU6ydKO08zxpipgEMbXLtyFYA3794CcHnp 0kyYEfE3sCU9jTEA//xTVQKnSmEtYRgyGAw8qHP+QmmVarVKYS1OlQBI+vv70cL8PO2Fdqnh8IxG Od/6fYBEms3WslON1bnov9x/K4gkYszKH5v6x/gEta/fAAAAAElFTkSuQmCC "
        height="16"
        width="16" />
     <image
        y="-193.63782"
        x="-1109"
        id="image4153"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAANZJREFU
-OI3Fkb8OwVAYxX+ki8Fu5Q2k9QKNwWy2dujiDYikickuYrUaTAYJL9DajRaLVST+9H4GVFsUEXGm
-+93z5dz8zoV/K/XMMKyBC+iX0XP7NePRXjohXHdsE8c2CQV9FPCWvg7QrocY850MayChMehEC13q
-nXqZgxJSwMG/7Tu2iQiInFtv9qbBQ+EANjuf5XqLCCglKIHtXvB94agEpaCQyzxGALxWbxZBqFZK
-AIwmbpzIe4YaYR7PV9IeLiTGH9Hvv7GYzyb6WoLnNbpB26+Z/6YTVHJLC8aZchkAAAAASUVORK5C
-YII=
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAANZJREFU OI3Fkb8OwVAYxX+ki8Fu5Q2k9QKNwWy2dujiDYikickuYrUaTAYJL9DajRaLVST+9H4GVFsUEXGm +93z5dz8zoV/K/XMMKyBC+iX0XP7NePRXjohXHdsE8c2CQV9FPCWvg7QrocY850MayChMehEC13q nXqZgxJSwMG/7Tu2iQiInFtv9qbBQ+EANjuf5XqLCCglKIHtXvB94agEpaCQyzxGALxWbxZBqFZK AIwmbpzIe4YaYR7PV9IeLiTGH9Hvv7GYzyb6WoLnNbpB26+Z/6YTVHJLC8aZchkAAAAASUVORK5C YII= "
        height="16"
        width="16" />
     <rect
@@ -629,5 +575,380 @@ YII=
        id="rect4997-5-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
+    <rect
+       transform="scale(1,-1)"
+       y="212.63782"
+       x="-1346"
+       height="1"
+       width="176"
+       id="rect4800"
+       style="color:#000000;fill:#babdb6;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+    <rect
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.99999988;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       id="rect4802"
+       width="186"
+       height="599"
+       x="-1350.5"
+       y="-265.13782" />
+    <rect
+       y="-77.670822"
+       x="-1335.0607"
+       height="23"
+       width="22"
+       id="rect4804"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+    <flowRoot
+       transform="translate(-225.5,160)"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot4806"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4808"><rect
+           style="font-size:12px;text-align:start;text-anchor:start"
+           y="-234.63782"
+           x="-1075"
+           height="63.5"
+           width="174"
+           id="rect4810" /></flowRegion><flowPara
+         id="flowPara4812">Google</flowPara></flowRoot>    <rect
+       y="-111.67084"
+       x="-1335.0607"
+       height="23"
+       width="22"
+       id="rect4814"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4816"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-225.5,126)"><flowRegion
+         id="flowRegion4818"><rect
+           id="rect4820"
+           width="174"
+           height="63.5"
+           x="-1075"
+           y="-234.63782"
+           style="font-size:12px;text-align:start;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara4822">Twitter</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       id="rect4824"
+       width="15.034213"
+       height="15.5"
+       x="-1321.0836"
+       y="-46.170822" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4826"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.68337332,0,0,0.67391304,-562.83943,113.99865)"><flowRegion
+         id="flowRegion4828"><rect
+           id="rect4830"
+           width="174"
+           height="63.5"
+           x="-1075"
+           y="-234.63782"
+           style="font-size:12px;text-align:start;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara4832">kitteh </flowPara></flowRoot>    <rect
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       id="rect4834"
+       width="15.034213"
+       height="15.5"
+       x="-1321.0836"
+       y="-6.1708221" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4836"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.68337332,0,0,0.67391304,-562.83943,153.99865)"><flowRegion
+         id="flowRegion4838"><rect
+           id="rect4840"
+           width="174"
+           height="63.5"
+           x="-1075"
+           y="-234.63782"
+           style="font-size:12px;text-align:start;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara4842">kitteh </flowPara></flowRoot>    <rect
+       y="-28.738373"
+       x="-1351.1178"
+       height="20.152544"
+       width="186.32263"
+       id="rect4844"
+       style="color:#000000;fill:#729fcf;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+    <flowRoot
+       transform="translate(-235.5,438.2031)"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot4846"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4848"><rect
+           style="font-size:12px;text-align:start;text-anchor:start"
+           y="-234.63782"
+           x="-1075"
+           height="63.5"
+           width="174"
+           id="rect4850" /></flowRegion><flowPara
+         id="flowPara4852">Downloads (2)</flowPara></flowRoot>    <path
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0"
+       id="path4854"
+       d="m -1330.2606,203.88664 0,6.7144 -3.3844,0 6.9713,8.79817 6.9424,-8.79817 -3.3556,0 0,-6.7144 z"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+    <rect
+       y="-26.170822"
+       x="-1321.0836"
+       height="15.5"
+       width="15.034213"
+       id="rect4856"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+    <flowRoot
+       transform="matrix(0.68337332,0,0,0.67391304,-562.83943,133.99865)"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot4858"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4860"><rect
+           style="font-size:12px;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1"
+           y="-234.63782"
+           x="-1075"
+           height="63.5"
+           width="174"
+           id="rect4862" /></flowRegion><flowPara
+         id="flowPara4864">kitteh </flowPara></flowRoot>    <rect
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       id="rect4866"
+       width="22"
+       height="23"
+       x="-1335.0607"
+       y="22.329178" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4868"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-225.5,260)"><flowRegion
+         id="flowRegion4870"><rect
+           id="rect4872"
+           width="174"
+           height="63.5"
+           x="-1075"
+           y="-234.63782"
+           style="font-size:12px;text-align:start;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara4874">Github</flowPara></flowRoot>    <rect
+       y="53.829178"
+       x="-1321.0836"
+       height="15.5"
+       width="15.034213"
+       id="rect4876"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+    <flowRoot
+       transform="matrix(0.68337332,0,0,0.67391304,-562.83943,213.99865)"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot4878"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4880"><rect
+           style="font-size:12px;text-align:start;text-anchor:start"
+           y="-234.63782"
+           x="-1075"
+           height="63.5"
+           width="174"
+           id="rect4882" /></flowRegion><flowPara
+         id="flowPara4884">SparkleShare Wiki</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       id="rect4886"
+       width="15.034213"
+       height="15.5"
+       x="-1321.0836"
+       y="73.829178" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4888"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.68337332,0,0,0.67391304,-562.83943,233.99865)"><flowRegion
+         id="flowRegion4890"><rect
+           id="rect4892"
+           width="174"
+           height="63.5"
+           x="-1075"
+           y="-234.63782"
+           style="font-size:12px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4894">SparkleShare Issues</flowPara></flowRoot>    <rect
+       ry="11.5"
+       rx="11"
+       y="157.32918"
+       x="-1335.0607"
+       height="23"
+       width="22"
+       id="rect4904"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+    <flowRoot
+       transform="translate(-225.5,395)"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot4906"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4908"><rect
+           style="font-size:12px;text-align:start;text-anchor:start"
+           y="-234.63782"
+           x="-1075"
+           height="63.5"
+           width="174"
+           id="rect4910" /></flowRegion><flowPara
+         id="flowPara4912">History</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4914"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-225.5,462.2031)"><flowRegion
+         id="flowRegion4916"><rect
+           id="rect4918"
+           width="174"
+           height="63.5"
+           x="-1075"
+           y="-234.63782"
+           style="font-size:12px;text-align:start;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara4920">presentation.pnpnt</flowPara></flowRoot>    <flowRoot
+       transform="translate(-225.5,498.2031)"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot4922"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4924"><rect
+           style="font-size:12px;text-align:start;text-anchor:start"
+           y="-234.63782"
+           x="-1075"
+           height="63.5"
+           width="174"
+           id="rect4926" /></flowRegion><flowPara
+         id="flowPara4928">virus.zip</flowPara></flowRoot>    <rect
+       y="249.36218"
+       x="-1298.5"
+       height="4"
+       width="114"
+       id="rect4930"
+       style="color:#000000;fill:none;stroke:#1f1f1f;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+    <rect
+       style="color:#000000;fill:#729fcf;stroke:#1f1f1f;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       id="rect4932"
+       width="60"
+       height="4"
+       x="-1298.5"
+       y="249.36218" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4934"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-225.5,520.2031)"><flowRegion
+         id="flowRegion4936"><rect
+           id="rect4938"
+           width="174"
+           height="63.5"
+           x="-1075"
+           y="-234.63782"
+           style="font-size:12px;text-align:start;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara4940">Show all...</flowPara></flowRoot>    <rect
+       y="-255.13782"
+       x="-1267.5"
+       height="31.000002"
+       width="31"
+       id="rect4942"
+       style="color:#000000;fill:#e8e7e8;fill-opacity:1;stroke:#d1d1d1;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       rx="6"
+       ry="6" />
+    <rect
+       y="-255.13782"
+       x="-1340.5"
+       height="31.000002"
+       width="31"
+       id="rect4944"
+       style="color:#000000;fill:#d5e7eb;fill-opacity:0.54509804;stroke:#a7dbee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       rx="6"
+       ry="6" />
+    <rect
+       ry="6"
+       rx="6"
+       style="color:#000000;fill:#ffe6e5;fill-opacity:1;stroke:#ffbab8;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       id="rect4946"
+       width="31"
+       height="31.000002"
+       x="-1304.5"
+       y="-255.13782" />
+    <image
+       width="16"
+       height="16"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAlJJREFU OI3FUk1Ik3Ecfv7v//3e2sbEmVtuqZmHFSzyFJKKkSUJEnXo1E5FncKPjkkFRQc79GHpRS+lfSAG GWSHTAJhXoKSSfrOEiazD9/VnL7bet9/h1A2LOgQ9Bx/H8/v93ueH/C/Qf62cHByOhxPrZXDAjoO 1XStxzkAiMUWA5qmOf/U3P74dX/36Fz/yNTntuB2Vy4/xwFAIpPbfbw3kjw9MD48ODkdLpgciYYn oithweWBKbnsFx7OXZ6IztcVnKDreiCaNC51Ppo+lkkbqshy+tHaspsdB2u6DtwYi6d/OLycrAKM wVxNYc82buzOiX1NBRpoy8u1JwdnXphZKrNcBuZaGt4S5c3Sdy5EbU4QwgEALDMHktNXr7ZUNMe/ rJZzG7vq+tve1p19ok0yeNUF3lmET2k5RGU7SJ7WhPKwmE1tvz8zLlDRv0FQWVn5zSmy27t8fIyX iUEFGZyiglAeIHkEDHAV2/TqYOl8fCXjK7BxdvaZ5Pc3tp4anb0yl7AqyG9cZsxCW0PRUMsOz3PT NOe5iyOT12OxxQAAVFU1ZyRJerA/YIvAsjb7yRgciqU3+V3XRFEcUBTlFXm3sHT23L2p86rC6TZZ SL5fSNXzW9ygdgc4KhT0U940elp8t4KlxZ0bf+CRyfDQmca71VU+I6YL9YK7BFS1gyN8weStRTTR c6Ssr5iy7nxSknf74cWU0fBUS4YiibWyXymGoFta2utTPtYF3C+TX5NPPB5PYhPBOjRNc3q93hCl tHw9ZllWIpvNfnA4HDObRfkH+Amwpd44boRWIgAAAABJRU5ErkJggg== "
+       id="image4948"
+       x="-1333"
+       y="-247.63782" />
+    <image
+       width="16"
+       height="16"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAPlJREFU OI3VkKFuAkEURQ8N2QSxFkWymxU1zSQIyGowKEDzFVtfQZqAh09ZMKD4gDVoFGRRCEJw1DzEZKez Zahur3pv5p773gz8e1VyYimaetLHa77+Cnxtd5zmS3cAQCP9hEHPTS/WHIfj0tGLPd1XkTYs1k9h X0XUk/73eU4sObGIiNySiVzUSPfpSozSleTEclEjuSUTEREpuKo9xJt9wPsUgONwTCPF1L6KqHXf tMdSKQDA67ZMXbzXwNadO+Cwh/P1wWjg81V7gtARcNjDJoNOG4IQb9AzzzFrG49rAwsu/YmtINTw JnME/ICfqghxbkD24P/7ugPjF22T9Z6l8wAAAABJRU5ErkJggg== "
+       id="image4950"
+       x="-1297"
+       y="-247.63782" />
+    <image
+       width="16"
+       height="16"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAaxJREFU OI2dj89qE1EUxn/nMmQKCWqMCU0tOirJQqp0rbhSN64sBfVBBBW6U9BXcOtCaaEM9BV8gIJ/qqUg owYJFVQGQyeZuee6CIbcZgTp2dz73fv7Ps4nzxvtZYEYiADu311jelrnXnj6cf0YAM6R4OxKkDkX L928Hl3sdpkT4dON257h+GlPcq8+R5ZZ3u/uRR92XsdB5lzU+vGLNN4iBV6duuUZTg63PP3gbIUQ 6DQb7GRpFGTOMfy4S1ZYAPrfU8/wu9nztDbGZ5UEO0wJEluwfXAwAfLPe54hNT89vV0MJ/fk6wjp dLruzOIiR5kvvR6BqlIUxZECVJXAWsVai3NuBnjy9BkAa48ezvyJCNYqgapFRMjzfAaq1WoApRtW KhVU7biCiHjQxuamB79cXwfgzurq5C0Mw3EFVcUY4wXU6ydKO08zxpipgEMbXLtyFYA3794CcHnp 0kyYEfE3sCU9jTEA//xTVQKnSmEtYRgyGAw8qHP+QmmVarVKYS1OlQBI+vv70cL8PO2Fdqnh8IxG Od/6fYBEms3WslON1bnov9x/K4gkYszKH5v6x/gEta/fAAAAAElFTkSuQmCC "
+       id="image4952"
+       x="-1260.5"
+       y="-247.63782" />
+    <rect
+       transform="scale(-1,1)"
+       style="color:#000000;fill:#babdb6;stroke:#888a85;stroke-width:0.99999994;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       id="rect4956"
+       width="9.000001"
+       height="599"
+       x="1159.5"
+       y="-265.13782" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4958"
+       d="m -1162.2018,30.77424 -4.7982,3.801835 4.7981,3.786108 z"
+       style="color:#000000;fill:#555753;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+    <rect
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       id="rect4960"
+       width="137.40916"
+       height="18.671574"
+       x="-1337.655"
+       y="-201.547" />
+    <rect
+       y="-201.547"
+       x="-1337.655"
+       height="18.671574"
+       width="156.90915"
+       id="rect4962"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.99999988;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -1194.3034,-196.60843 0,9.01561 8.4718,-4.89116 z"
+       id="path4964"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="color:#000000;fill:none;stroke:url(#linearGradient5490);stroke-width:3.79999999999999982;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       id="rect4966"
+       width="22"
+       height="23"
+       x="-1335.0607"
+       y="-143.67084"
+       rx="11"
+       ry="11" />
+    <flowRoot
+       transform="translate(-225.5,96)"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot4968"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4970"><rect
+           style="font-size:12px;text-align:start;text-anchor:start"
+           y="-234.63782"
+           x="-1075"
+           height="63.5"
+           width="174"
+           id="rect4972" /></flowRegion><flowPara
+         id="flowPara4974">GNOME</flowPara></flowRoot>    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#1f1f1f;stroke-width:3.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       id="path5492"
+       sodipodi:cx="-1324.411"
+       sodipodi:cy="-143.53217"
+       sodipodi:rx="3.1819806"
+       sodipodi:ry="3.1819806"
+       d="m -1321.229,-143.53217 a 3.1819806,3.1819806 0 1 1 -6.364,0 3.1819806,3.1819806 0 1 1 6.364,0 z"
+       transform="translate(0.61871843,0)" />
   </g>
 </svg>
