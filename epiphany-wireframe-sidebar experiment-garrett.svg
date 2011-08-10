@@ -37,9 +37,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="-1465.1077"
-     inkscape:cy="1195.9003"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="-1455.1501"
+     inkscape:cy="1158.2454"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -846,27 +846,27 @@
     <rect
        style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
        id="rect4960"
-       width="137.40916"
-       height="18.671574"
-       x="-1648.655"
+       width="110.18555"
+       height="22.914215"
+       x="-1621.4314"
        y="-201.547" />
     <rect
        y="-201.547"
-       x="-1648.655"
-       height="18.671574"
-       width="156.90915"
+       x="-1621.0779"
+       height="22.560661"
+       width="129.33199"
        id="rect4962"
-       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.99999988;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -1505.3034,-196.60843 0,9.01561 8.4718,-4.89116 z"
+       d="m -1506.0105,-195.19422 0,9.01561 8.4718,-4.89116 z"
        id="path4964"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot7807"
        style="font-size:12px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.87083754,0,0,0.87083754,-709.20888,5.0625698)"><flowRegion
+       transform="matrix(0.65773035,0,0,0.65773035,-907.72193,-41.124563)"><flowRegion
          id="flowRegion7809"><rect
            id="rect7811"
            width="174"
@@ -1432,5 +1432,12 @@ gg==
            x="-1831.4066"
            y="-319.42499"
            style="font-size:12px;text-align:start;text-anchor:start" /></flowRegion><flowPara
-         id="flowPara8189">Page loads</flowPara></flowRoot>  </g>
+         id="flowPara8189">Page loads</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       id="rect8191"
+       width="22"
+       height="23"
+       x="-1646.0607"
+       y="-201.62238" />
+  </g>
 </svg>
