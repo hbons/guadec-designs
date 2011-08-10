@@ -246,6 +246,35 @@
        y1="-244.64563"
        x2="-893.00001"
        y2="-244.64563" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2876"
+       id="linearGradient14762"
+       gradientUnits="userSpaceOnUse"
+       x1="6.9311519"
+       y1="6.1781015"
+       x2="9.1195116"
+       y2="15.158121" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2876"
+       id="linearGradient14764"
+       gradientUnits="userSpaceOnUse"
+       x1="6.375"
+       y1="2.65625"
+       x2="6.9375"
+       y2="5.375" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2890"
+       id="radialGradient14766"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.63495,-0.40007,0.14964,0.985565,-10.9316,2.500836)"
+       cx="5.8949537"
+       cy="8.5116825"
+       fx="5.8949537"
+       fy="8.5116825"
+       r="4.5304475" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -255,8 +284,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-737.42977"
-     inkscape:cy="1142.2119"
+     inkscape:cx="-805.54382"
+     inkscape:cy="999.15167"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -573,8 +602,8 @@
            style="font-size:16.9459877px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell"
            y="-234.63782"
            x="-1075"
-           height="63.5"
-           width="174"
+           height="59.790321"
+           width="193.75494"
            id="rect3059" /></flowRegion><flowPara
          id="flowPara3061">SparkleShare Issues</flowPara></flowRoot>    <rect
        y="-418.67084"
@@ -1994,5 +2023,41 @@ RU5ErkJggg==
        d="m -1119.5,-217.13782 180.25,0"
        id="path14652"
        inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot14736"
+       style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       transform="translate(-9.825,284)"><flowRegion
+         id="flowRegion14738"><rect
+           id="rect14740"
+           width="157.5"
+           height="19.5"
+           x="-1075"
+           y="-234.63782"
+           style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#2e3436;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
+         id="flowPara14742">Get More From Your F...</flowPara></flowRoot>    <image
+       y="49.362183"
+       x="-1108"
+       id="image14880"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAA1FJREFU
+OI0tzMtrHHUAwPHv7zczu7ObnZ1sNrt5rzFajUQh2kAJ2mgRjY9LEdQepChiei1aIY0HwYPRg9BD
+KdhDFaOeKqWBikq0pSVoaSu2DQlq1KQxado8Nvua98OLnz/gI+I45s/XC6eByV2fb1wbOnRyqHvp
+17c6MvWRK60jRYDAD5YCz18m5oyeSU0BXP10DADxfxADHL314oc1s+3AcfNU3/W5GrXTWwCsb1a5
+9NM8i3+sMvTP2R8OGt9+4DvOLID8SFdeA8j1RUyWzk0cN0/15foiPC9koxGwWfdxUWnqKJL0Kkwc
+rD3r6dkZsyf/CoBMG8pT0lQAKDxqkrlfBcBxI1pfauGbwTxWLBCGDqpG0HsPg68O6JYjTxYGiu2y
+KSt2axkZqWaOwIsILUnowt7hFvYOt/CYCXdqAb6i4Sk63900ae1vI9eVMt2af1RmcqIzaUQSALtK
+7MR4Thutz73JpZ+3uf31XSrVkK01m0jVmF/0qFQCunbnCWr2PjXZFGWRIQCeK1AGSgCo2jxaEjZW
+tonrO9TX1ggjhWsLkpQMkTkd1wr7VTXlJ4lAicr8dtFi86urBMkYgCPd75O6cBFVVRBODS9U6G22
+aM5us2PbhF6gSgVRL6/6+K7g4SdSFIwIw4C3i+NIPcWx+iSTTV/i1hsEdoMnu29BeRtv+Q5qQliq
+dPlxfdHbX+xSyZiS1lKCNiE4nz5Bkx5QjVLcmDlPeO/TaNVlDg0u4K57bF3fhiC6qRzoFYpdC19I
+SEUz8gpGIUkcaeyUbZZXfJb+bjCeH+cNcZb3nv+dXbkGlaUdFm5IZCL/mZgeJY0lZtNqcrB/j05C
+V3BtBdfRuHK5Au0GadGgVPTp7U1io3L7rxobjVS1OV94UEyPghOwx7PFdLueKJYe0jFMCRH4UqKK
+CN+JCJwYTYuxZMTKquPMbTJ2nxpOqQAvz8SXDz8ixh5wvRP2XNBpJlRyWQUhBbEmkKogDH027Ziy
+jXVuKTq8vxRPAYjpUQAouz26t17fZwWVY5ks3flsnJaJGAEQSzykd3eNLU02v6vlU2dyyRULQPSl
+BQCzM9/TPvwM7/SonYrL43rMiAYdgHThX1eKX6JEfOGTlWBt8YuPGTsywaoT8x+u1nfsxnu+xwAA
+AABJRU5ErkJggg==
+"
+       height="16"
+       width="16" />
   </g>
 </svg>
