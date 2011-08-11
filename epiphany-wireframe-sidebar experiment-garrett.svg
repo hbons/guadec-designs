@@ -302,9 +302,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="-826.53058"
-     inkscape:cy="1930.3827"
+     inkscape:zoom="1"
+     inkscape:cx="-735.23243"
+     inkscape:cy="1819.6457"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -4952,7 +4952,7 @@ kqShcPkG1uZtZn/5yUimfs70MKXzv3H+DjZKQVYnuH0uAAAAAElFTkSuQmCC
            x="-1280"
            y="-815.63782"
            style="font-size:8px;text-align:start;text-anchor:start;fill:#414141;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara34291">Selected page has a close button visible</flowPara></flowRoot>    <rect
+         id="flowPara34291">The current page always has a close button visible</flowPara></flowRoot>    <rect
        ry="8"
        rx="8"
        y="-965.6109"
