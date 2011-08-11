@@ -303,8 +303,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-853.00659"
-     inkscape:cy="2051.7866"
+     inkscape:cx="-1288.0066"
+     inkscape:cy="2056.7866"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2024,7 +2024,7 @@
        xml:space="preserve"
        id="flowRoot3412"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-377,-355)"><flowRegion
+       transform="matrix(0.60275084,0,0,0.60275084,-704.68337,-654.58405)"><flowRegion
          id="flowRegion3414"><rect
            id="rect3416"
            width="470"
@@ -2038,8 +2038,7 @@
          id="flowPara3430">save as app</flowPara><flowPara
          id="flowPara3432">(save?)</flowPara><flowPara
          id="flowPara3444">add bookmark</flowPara><flowPara
-         id="flowPara3446">zooming</flowPara><flowPara
-         id="flowPara3448">fullscreen</flowPara><flowPara
+         id="flowPara3448">zooming</flowPara><flowPara
          id="flowPara3458">add to Reading Queue</flowPara></flowRoot>    <rect
        ry="7.9999995"
        rx="8"
@@ -2073,5 +2072,16 @@
            height="63.5"
            width="174"
            id="rect3454" /></flowRegion><flowPara
-         id="flowPara3456">5 minutes remaining</flowPara></flowRoot>  </g>
+         id="flowPara3456">5 minutes remaining</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.60275084,0,0,0.60275084,-1014.6834,-654.58405)"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot3462"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3464"><rect
+           y="-939.63782"
+           x="-1488"
+           height="559"
+           width="470"
+           id="rect3466" /></flowRegion><flowPara
+         id="flowPara3484">fullscreen</flowPara></flowRoot>  </g>
 </svg>
