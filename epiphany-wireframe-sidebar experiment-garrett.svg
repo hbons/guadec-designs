@@ -303,8 +303,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-801.62462"
-     inkscape:cy="1685.6716"
+     inkscape:cx="-852.71167"
+     inkscape:cy="1779.358"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1874,7 +1874,7 @@
            width="112.10915"
            id="rect34239" /></flowRegion><flowPara
          id="flowPara34241">Opens the history page </flowPara></flowRoot>    <rect
-       style="color:#000000;fill:#fff49a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       style="color:#000000;fill:#fcaf3e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
        id="rect34243"
        width="125.21446"
        height="21.343147"
@@ -2007,7 +2007,7 @@
        height="41.343147"
        width="125.21446"
        id="rect3402"
-       style="color:#000000;fill:#fff49a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+       style="color:#000000;fill:#fcaf3e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
     <flowRoot
        transform="translate(-87.171573,175.69848)"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#414141;fill-opacity:1;stroke:none;font-family:Sans"
@@ -2027,8 +2027,8 @@
        transform="translate(-95,-177)"><flowRegion
          id="flowRegion3414"><rect
            id="rect3416"
-           width="260"
-           height="312"
+           width="318"
+           height="495"
            x="-1488"
            y="-939.63782" /></flowRegion><flowPara
          id="flowPara3418">stop</flowPara><flowPara
@@ -2036,7 +2036,10 @@
          id="flowPara3424">print</flowPara><flowPara
          id="flowPara3428">search</flowPara><flowPara
          id="flowPara3430">save as app</flowPara><flowPara
-         id="flowPara3432">(save?)</flowPara></flowRoot>    <rect
+         id="flowPara3432">(save?)</flowPara><flowPara
+         id="flowPara3444">asdd bookmark</flowPara><flowPara
+         id="flowPara3446">zooming</flowPara><flowPara
+         id="flowPara3448">fullscreen</flowPara></flowRoot>    <rect
        ry="7.9999995"
        rx="8"
        y="-558.6109"
@@ -2057,5 +2060,17 @@
            height="71.091919"
            width="110.95227"
            id="rect3440" /></flowRegion><flowPara
-         id="flowPara3442">A list of ongoing downloads, plus the finished downloads that the user hasn't looked at yet</flowPara></flowRoot>  </g>
+         id="flowPara3442">A list of ongoing downloads, plus the finished downloads that the user hasn't looked at yet</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.88769023,0,0,0.88769023,-126.11979,-328.75674)"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       id="flowRoot3450"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3452"><rect
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#888a85;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           y="-234.63782"
+           x="-1075"
+           height="63.5"
+           width="174"
+           id="rect3454" /></flowRegion><flowPara
+         id="flowPara3456">5 minutes remaining</flowPara></flowRoot>  </g>
 </svg>
