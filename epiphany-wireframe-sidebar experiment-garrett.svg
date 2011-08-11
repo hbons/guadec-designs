@@ -303,8 +303,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-692.99"
-     inkscape:cy="1842.372"
+     inkscape:cx="-1005.426"
+     inkscape:cy="2075.8274"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2543,7 +2543,7 @@ z//Z
            y="-234.63782"
            style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#2e3436;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
          id="flowPara3889">History</flowPara></flowRoot>    <flowRoot
-       transform="translate(4.5,-327.7969)"
+       transform="translate(-5.5,-336.7969)"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot3910"
        xml:space="preserve"><flowRegion
@@ -2625,7 +2625,7 @@ z//Z
        width="16" />
     <image
        y="-1040.6378"
-       x="-1033.5"
+       x="-1033"
        id="image4088"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAaxJREFU OI2dj89qE1EUxn/nMmQKCWqMCU0tOirJQqp0rbhSN64sBfVBBBW6U9BXcOtCaaEM9BV8gIJ/qqUg owYJFVQGQyeZuee6CIbcZgTp2dz73fv7Ps4nzxvtZYEYiADu311jelrnXnj6cf0YAM6R4OxKkDkX L928Hl3sdpkT4dON257h+GlPcq8+R5ZZ3u/uRR92XsdB5lzU+vGLNN4iBV6duuUZTg63PP3gbIUQ 6DQb7GRpFGTOMfy4S1ZYAPrfU8/wu9nztDbGZ5UEO0wJEluwfXAwAfLPe54hNT89vV0MJ/fk6wjp dLruzOIiR5kvvR6BqlIUxZECVJXAWsVai3NuBnjy9BkAa48ezvyJCNYqgapFRMjzfAaq1WoApRtW KhVU7biCiHjQxuamB79cXwfgzurq5C0Mw3EFVcUY4wXU6ydKO08zxpipgEMbXLtyFYA3794CcHnp 0kyYEfE3sCU9jTEA//xTVQKnSmEtYRgyGAw8qHP+QmmVarVKYS1OlQBI+vv70cL8PO2Fdqnh8IxG Od/6fYBEms3WslON1bnov9x/K4gkYszKH5v6x/gEta/fAAAAAElFTkSuQmCC "
        height="16"
@@ -3433,33 +3433,11 @@ z//Z
          sodipodi:type="inkscape:offset"
          style="fill:url(#radialGradient13620);fill-opacity:1;fill-rule:nonzero;stroke:#2e3436;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
     </g>
-    <path
-       transform="matrix(0.7529413,0,0,0.75294118,-265.84142,-730.78883)"
-       d="m -1076,235.23718 a 10.625,10.625 0 1 1 -21.25,0 10.625,10.625 0 1 1 21.25,0 z"
-       sodipodi:ry="10.625"
-       sodipodi:rx="10.625"
-       sodipodi:cy="235.23718"
-       sodipodi:cx="-1086.625"
-       id="path14123"
-       style="opacity:0.98333333;color:#000000;fill:#e1efff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-       sodipodi:type="arc" />
-    <path
-       sodipodi:type="arc"
-       style="opacity:0.98333333;color:#000000;fill:#72b5ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-       id="path14121"
-       sodipodi:cx="-1086.625"
-       sodipodi:cy="235.23718"
-       sodipodi:rx="10.625"
-       sodipodi:ry="10.625"
-       d="m -1086.625,224.61218 a 10.625,10.625 0 1 1 -7.4913,18.15971 l 7.4913,-7.53471 z"
-       transform="matrix(0.7529413,0,0,0.75294118,-265.84142,-730.78883)"
-       sodipodi:start="4.712389"
-       sodipodi:end="8.6364882" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot14125"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="translate(4.5,-303.7969)"><flowRegion
+       transform="translate(-5.5,-315.7969)"><flowRegion
          id="flowRegion14127"><rect
            id="rect14129"
            width="174"
@@ -3467,29 +3445,7 @@ z//Z
            x="-1075"
            y="-234.63782"
            style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#2e3436;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
-         id="flowPara14131">virus.zip</flowPara></flowRoot>    <path
-       sodipodi:type="arc"
-       style="opacity:0.98333333;color:#000000;fill:#e1efff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-       id="path14133"
-       sodipodi:cx="-1086.625"
-       sodipodi:cy="235.23718"
-       sodipodi:rx="10.625"
-       sodipodi:ry="10.625"
-       d="m -1076,235.23718 a 10.625,10.625 0 1 1 -21.25,0 10.625,10.625 0 1 1 21.25,0 z"
-       transform="matrix(0.7529413,0,0,0.75294118,-265.84142,-706.78883)" />
-    <path
-       sodipodi:end="10.210176"
-       sodipodi:start="4.712389"
-       transform="matrix(0.7529413,0,0,0.75294118,-265.84142,-706.78883)"
-       d="m -1086.625,224.61218 a 10.625,10.625 0 1 1 -7.513,3.11199 l 7.513,7.51301 z"
-       sodipodi:ry="10.625"
-       sodipodi:rx="10.625"
-       sodipodi:cy="235.23718"
-       sodipodi:cx="-1086.625"
-       id="path14135"
-       style="opacity:0.98333333;color:#000000;fill:#72b5ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-       sodipodi:type="arc" />
-    <rect
+         id="flowPara14131">virus.zip</flowPara></flowRoot>    <rect
        transform="scale(1,-1)"
        y="1006.6378"
        x="-1120"
