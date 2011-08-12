@@ -321,8 +321,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-795.48613"
-     inkscape:cy="1812.4757"
+     inkscape:cx="-796.62609"
+     inkscape:cy="1795.0555"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -409,7 +409,7 @@
        width="181"
        height="24"
        x="-1120"
-       y="-919.63782" />
+       y="-969.63782" />
     <rect
        style="opacity:0.98333333;color:#000000;fill:url(#linearGradient14685);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
        id="rect14650"
@@ -534,7 +534,7 @@
        xml:space="preserve"
        id="flowRoot4873"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="translate(-9.5,-730.22394)"><flowRegion
+       transform="translate(-9.5,-780.22394)"><flowRegion
          id="flowRegion4875"><rect
            id="rect4877"
            width="174"
@@ -543,7 +543,7 @@
            y="-234.63782"
            style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#2e3436;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
          id="flowPara4879">Google</flowPara></flowRoot>    <flowRoot
-       transform="translate(-9.825,-759.92186)"
+       transform="translate(-9.825,-809.92186)"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot4883"
        xml:space="preserve"><flowRegion
@@ -555,7 +555,7 @@
            width="174"
            id="rect4887" /></flowRegion><flowPara
          id="flowPara4889">GNOME</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.68337332,0,0,0.67391304,-337.40193,-734.50135)"
+       transform="matrix(0.68337332,0,0,0.67391304,-337.40193,-784.50135)"
        style="font-size:19.15633392px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot4913"
        xml:space="preserve"><flowRegion
@@ -570,7 +570,7 @@
        xml:space="preserve"
        id="flowRoot4903"
        style="font-size:19.15633392px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-       transform="matrix(0.68337332,0,0,0.67391304,-337.33245,-757.75135)"><flowRegion
+       transform="matrix(0.68337332,0,0,0.67391304,-337.33245,-807.75135)"><flowRegion
          id="flowRegion4905"><rect
            id="rect4907"
            width="174"
@@ -579,7 +579,7 @@
            y="-234.63782"
            style="font-size:19.15633392px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold" /></flowRegion><flowPara
          id="flowPara4909">kitteh </flowPara></flowRoot>    <flowRoot
-       transform="translate(-9.825,-628)"
+       transform="translate(-9.825,-678)"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot3035"
        xml:space="preserve"><flowRegion
@@ -594,7 +594,7 @@
        xml:space="preserve"
        id="flowRoot3045"
        style="font-size:19.15633392px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="matrix(0.68337332,0,0,0.67391304,-337.30929,-680.00135)"><flowRegion
+       transform="matrix(0.68337332,0,0,0.67391304,-337.30929,-730.00135)"><flowRegion
          id="flowRegion3047"><rect
            id="rect3049"
            width="174"
@@ -603,7 +603,7 @@
            y="-234.63782"
            style="font-size:19.15633392px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#2e3436;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
          id="flowPara3051">SparkleShare Wiki</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.68337332,0,0,0.67391304,-337.30929,-656.18736)"
+       transform="matrix(0.68337332,0,0,0.67391304,-337.30929,-706.18736)"
        style="font-size:19.15633392px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot3055"
        xml:space="preserve"><flowRegion
@@ -649,7 +649,7 @@
        id="rect4060-4"
        width="31"
        height="31.000002"
-       x="-1040.5"
+       x="-1370.5"
        y="-1048.1378" />
     <rect
        ry="6"
@@ -658,11 +658,11 @@
        id="rect4060"
        width="31"
        height="31.000002"
-       x="-1113.5"
+       x="-1443.5"
        y="-1048.1378" />
     <rect
        y="-1048.1378"
-       x="-1077.5"
+       x="-1407.5"
        height="31.000002"
        width="31"
        id="rect4881"
@@ -671,21 +671,21 @@
        ry="6" />
     <image
        y="-1040.6378"
-       x="-1106"
+       x="-1436"
        id="image3133"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAlJJREFU OI3FUk1Ik3Ecfv7v//3e2sbEmVtuqZmHFSzyFJKKkSUJEnXo1E5FncKPjkkFRQc79GHpRS+lfSAG GWSHTAJhXoKSSfrOEiazD9/VnL7bet9/h1A2LOgQ9Bx/H8/v93ueH/C/Qf62cHByOhxPrZXDAjoO 1XStxzkAiMUWA5qmOf/U3P74dX/36Fz/yNTntuB2Vy4/xwFAIpPbfbw3kjw9MD48ODkdLpgciYYn oithweWBKbnsFx7OXZ6IztcVnKDreiCaNC51Ppo+lkkbqshy+tHaspsdB2u6DtwYi6d/OLycrAKM wVxNYc82buzOiX1NBRpoy8u1JwdnXphZKrNcBuZaGt4S5c3Sdy5EbU4QwgEALDMHktNXr7ZUNMe/ rJZzG7vq+tve1p19ok0yeNUF3lmET2k5RGU7SJ7WhPKwmE1tvz8zLlDRv0FQWVn5zSmy27t8fIyX iUEFGZyiglAeIHkEDHAV2/TqYOl8fCXjK7BxdvaZ5Pc3tp4anb0yl7AqyG9cZsxCW0PRUMsOz3PT NOe5iyOT12OxxQAAVFU1ZyRJerA/YIvAsjb7yRgciqU3+V3XRFEcUBTlFXm3sHT23L2p86rC6TZZ SL5fSNXzW9ygdgc4KhT0U940elp8t4KlxZ0bf+CRyfDQmca71VU+I6YL9YK7BFS1gyN8weStRTTR c6Ssr5iy7nxSknf74cWU0fBUS4YiibWyXymGoFta2utTPtYF3C+TX5NPPB5PYhPBOjRNc3q93hCl tHw9ZllWIpvNfnA4HDObRfkH+Amwpd44boRWIgAAAABJRU5ErkJggg== "
        height="16"
        width="16" />
     <image
        y="-1040.6378"
-       x="-1070"
+       x="-1400"
        id="image3155"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAPlJREFU OI3VkKFuAkEURQ8N2QSxFkWymxU1zSQIyGowKEDzFVtfQZqAh09ZMKD4gDVoFGRRCEJw1DzEZKez Zahur3pv5p773gz8e1VyYimaetLHa77+Cnxtd5zmS3cAQCP9hEHPTS/WHIfj0tGLPd1XkTYs1k9h X0XUk/73eU4sObGIiNySiVzUSPfpSozSleTEclEjuSUTEREpuKo9xJt9wPsUgONwTCPF1L6KqHXf tMdSKQDA67ZMXbzXwNadO+Cwh/P1wWjg81V7gtARcNjDJoNOG4IQb9AzzzFrG49rAwsu/YmtINTw JnME/ICfqghxbkD24P/7ugPjF22T9Z6l8wAAAABJRU5ErkJggg== "
        height="16"
        width="16" />
     <image
        y="-1040.6378"
-       x="-1033"
+       x="-1363"
        id="image4088"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAaxJREFU OI2dj89qE1EUxn/nMmQKCWqMCU0tOirJQqp0rbhSN64sBfVBBBW6U9BXcOtCaaEM9BV8gIJ/qqUg owYJFVQGQyeZuee6CIbcZgTp2dz73fv7Ps4nzxvtZYEYiADu311jelrnXnj6cf0YAM6R4OxKkDkX L928Hl3sdpkT4dON257h+GlPcq8+R5ZZ3u/uRR92XsdB5lzU+vGLNN4iBV6duuUZTg63PP3gbIUQ 6DQb7GRpFGTOMfy4S1ZYAPrfU8/wu9nztDbGZ5UEO0wJEluwfXAwAfLPe54hNT89vV0MJ/fk6wjp dLruzOIiR5kvvR6BqlIUxZECVJXAWsVai3NuBnjy9BkAa48ezvyJCNYqgapFRMjzfAaq1WoApRtW KhVU7biCiHjQxuamB79cXwfgzurq5C0Mw3EFVcUY4wXU6ydKO08zxpipgEMbXLtyFYA3794CcHnp 0kyYEfE3sCU9jTEA//xTVQKnSmEtYRgyGAw8qHP+QmmVarVKYS1OlQBI+vv70cL8PO2Fdqnh8IxG Od/6fYBEms3WslON1bnov9x/K4gkYszKH5v6x/gEta/fAAAAAElFTkSuQmCC "
        height="16"
@@ -1352,7 +1352,7 @@
        height="16"
        width="16" />
     <image
-       transform="translate(-2.994595,-982.02303)"
+       transform="translate(-2.994595,-1032.023)"
        clip-path="url(#clipPath10717)"
        width="29"
        height="30"
@@ -1361,7 +1361,7 @@
        x="-1100.0138"
        y="59.362183" />
     <flowRoot
-       transform="matrix(0.68337332,0,0,0.67391304,-337.40193,-782.61941)"
+       transform="matrix(0.68337332,0,0,0.67391304,-337.40193,-832.61941)"
        style="font-size:19.15633392px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot4893"
        xml:space="preserve"><flowRegion
@@ -1380,9 +1380,9 @@
        height="30"
        width="29"
        clip-path="url(#clipPath10717)"
-       transform="translate(-2.98677,-1006.0074)" />
+       transform="translate(-2.98677,-1056.0074)" />
     <image
-       transform="translate(-2.994583,-958.02303)"
+       transform="translate(-2.994583,-1008.023)"
        clip-path="url(#clipPath10717)"
        width="29"
        height="30"
@@ -1391,7 +1391,7 @@
        x="-1100.0138"
        y="59.362183" />
     <image
-       transform="translate(-14.994582,-1030.0341)"
+       transform="translate(-14.994582,-1080.0341)"
        clip-path="url(#clipPath10717)"
        width="29"
        height="30"
@@ -1405,9 +1405,9 @@
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAmpJREFU OI2Vk09IVFEUh7/73tVxhvHpOGmkQdQigkDSonwLkYjChYlWtOjPooUFrdtUy7aBGrgYWkVDbmwT umgRVJu3M0ILC8MyRpGc93BGx3zv3XtbmG6C1N/qnMXvnPNxzhGzs7MNxphxrbXLHmRZlieE6JFh GI5nMhk3k8kghNiV2RhDEARuEATjMgxDN5lMEkXRXgYgmUyytLTkyjiOEUKwvr5Of38/nZ2dDAwM YFkWq6urAKRSKSqVCsPDw5TLZXK5HEII4jgGz/OM7/tmenraAAYw6XTaOI6znadSKWNZlgFMNps1 hULB+L5vPM8zMooitNbU19fjOA6lUmm785Yqlcp2nEgkEEKgtSaKIqw4jtFa82LsFaVSaUf2hYUF Rp8+Q2tNHMfIrQKPh0YAyKRTdBw/AgjKlQ0MhtpkDVIKJr/8YKG4Qm5ohOt3bm0W2ELwi8vsq0vz 5skDWrvOQbAIqysggOoENB6m8PkjZ28/JFhc+Rch3XSIC+3HaD1zmveDefxCCSwBSqNNDe8Gn9OS 2c+18y611eltBEsphdaaG1f7+OUHYBTOwWbsaonaCIl/bwAap6UZqmxWymVOdnWgtUYphRWGIUop 7t7so6rlKGOjLzlx8RR1B1LYsUbGBqtK0XbZ5eu3Gd5++sm9R/dRShGGISKfzxvX3XyDKIqYmJgg +D6DY0fUCLAAZdusU0XZStNz6QpNjY0AeJ6HVEqxvLxMQ0MDtm3T29sL9P53lVprfN9HKYU0xkzO zc21K6XIZrM73gFAsVhkfn4eY8yklFJ2r62tvZ6ammrblfuvpJQfEolE9x98aEfzAtgFsgAAAABJ RU5ErkJggg== "
        id="image10879"
        x="-1108.0062"
-       y="-861.64514" />
+       y="-911.64514" />
     <image
-       y="-837.64514"
+       y="-887.64514"
        x="-1096.0062"
        id="image10881"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAmpJREFU OI2Vk09IVFEUh7/73tVxhvHpOGmkQdQigkDSonwLkYjChYlWtOjPooUFrdtUy7aBGrgYWkVDbmwT umgRVJu3M0ILC8MyRpGc93BGx3zv3XtbmG6C1N/qnMXvnPNxzhGzs7MNxphxrbXLHmRZlieE6JFh GI5nMhk3k8kghNiV2RhDEARuEATjMgxDN5lMEkXRXgYgmUyytLTkyjiOEUKwvr5Of38/nZ2dDAwM YFkWq6urAKRSKSqVCsPDw5TLZXK5HEII4jgGz/OM7/tmenraAAYw6XTaOI6znadSKWNZlgFMNps1 hULB+L5vPM8zMooitNbU19fjOA6lUmm785Yqlcp2nEgkEEKgtSaKIqw4jtFa82LsFaVSaUf2hYUF Rp8+Q2tNHMfIrQKPh0YAyKRTdBw/AgjKlQ0MhtpkDVIKJr/8YKG4Qm5ohOt3bm0W2ELwi8vsq0vz 5skDWrvOQbAIqysggOoENB6m8PkjZ28/JFhc+Rch3XSIC+3HaD1zmveDefxCCSwBSqNNDe8Gn9OS 2c+18y611eltBEsphdaaG1f7+OUHYBTOwWbsaonaCIl/bwAap6UZqmxWymVOdnWgtUYphRWGIUop 7t7so6rlKGOjLzlx8RR1B1LYsUbGBqtK0XbZ5eu3Gd5++sm9R/dRShGGISKfzxvX3XyDKIqYmJgg +D6DY0fUCLAAZdusU0XZStNz6QpNjY0AeJ6HVEqxvLxMQ0MDtm3T29sL9P53lVprfN9HKYU0xkzO zc21K6XIZrM73gFAsVhkfn4eY8yklFJ2r62tvZ6ammrblfuvpJQfEolE9x98aEfzAtgFsgAAAABJ RU5ErkJggg== "
@@ -1419,10 +1419,10 @@
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAmpJREFU OI2Vk09IVFEUh7/73tVxhvHpOGmkQdQigkDSonwLkYjChYlWtOjPooUFrdtUy7aBGrgYWkVDbmwT umgRVJu3M0ILC8MyRpGc93BGx3zv3XtbmG6C1N/qnMXvnPNxzhGzs7MNxphxrbXLHmRZlieE6JFh GI5nMhk3k8kghNiV2RhDEARuEATjMgxDN5lMEkXRXgYgmUyytLTkyjiOEUKwvr5Of38/nZ2dDAwM YFkWq6urAKRSKSqVCsPDw5TLZXK5HEII4jgGz/OM7/tmenraAAYw6XTaOI6znadSKWNZlgFMNps1 hULB+L5vPM8zMooitNbU19fjOA6lUmm785Yqlcp2nEgkEEKgtSaKIqw4jtFa82LsFaVSaUf2hYUF Rp8+Q2tNHMfIrQKPh0YAyKRTdBw/AgjKlQ0MhtpkDVIKJr/8YKG4Qm5ohOt3bm0W2ELwi8vsq0vz 5skDWrvOQbAIqysggOoENB6m8PkjZ28/JFhc+Rch3XSIC+3HaD1zmveDefxCCSwBSqNNDe8Gn9OS 2c+18y611eltBEsphdaaG1f7+OUHYBTOwWbsaonaCIl/bwAap6UZqmxWymVOdnWgtUYphRWGIUop 7t7so6rlKGOjLzlx8RR1B1LYsUbGBqtK0XbZ5eu3Gd5++sm9R/dRShGGISKfzxvX3XyDKIqYmJgg +D6DY0fUCLAAZdusU0XZStNz6QpNjY0AeJ6HVEqxvLxMQ0MDtm3T29sL9P53lVprfN9HKYU0xkzO zc21K6XIZrM73gFAsVhkfn4eY8yklFJ2r62tvZ6ammrblfuvpJQfEolE9x98aEfzAtgFsgAAAABJ RU5ErkJggg== "
        id="image10883"
        x="-1096.0062"
-       y="-813.64514" />
+       y="-863.64514" />
     <path
        style="opacity:0.98333333;color:#000000;fill:#288af4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-       d="m -1095.9938,-915.65497 1.0137,0 -1.0137,1.03959 z"
+       d="m -1095.9938,-965.65497 1.0137,0 -1.0137,1.03959 z"
        id="rect11054"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
@@ -1430,24 +1430,24 @@
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
        id="path11057"
-       d="m -1079.9801,-915.65497 -1.0137,0 1.0137,1.03959 z"
+       d="m -1079.9801,-965.65497 -1.0137,0 1.0137,1.03959 z"
        style="opacity:0.98333333;color:#000000;fill:#288af4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
     <path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
        id="path11059"
-       d="m -1095.9938,-899.61538 1.0137,0 -1.0137,-1.03959 z"
+       d="m -1095.9938,-949.61538 1.0137,0 -1.0137,-1.03959 z"
        style="opacity:0.98333333;color:#000000;fill:#288af4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
     <path
        style="opacity:0.98333333;color:#000000;fill:#288af4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-       d="m -1079.9801,-899.61538 -1.0137,0 1.0137,-1.03959 z"
+       d="m -1079.9801,-949.61538 -1.0137,0 1.0137,-1.03959 z"
        id="path11061"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <g
        id="g16"
        style="display:inline;enable-background:new"
-       transform="translate(-1107.9872,-993.63001)">
+       transform="translate(-1107.9872,-1043.63)">
       <g
          id="g2886"
          style="opacity:0.5">
@@ -1495,7 +1495,7 @@
     </g>
     <rect
        transform="scale(1,-1)"
-       y="1006.6378"
+       y="675.63782"
        x="-1120"
        height="1"
        width="181"
@@ -1552,8 +1552,9 @@
     </g>
     <path
        style="opacity:0.98333333;color:#000000;fill:#f8fafc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-       d="M -956.09375 -914.625 C -957.16713 -914.625 -958.03125 -913.76088 -958.03125 -912.6875 L -958.03125 -902.5625 C -958.03125 -901.48913 -957.16713 -900.625 -956.09375 -900.625 L -945.96875 -900.625 C -944.89537 -900.625 -944.03125 -901.48913 -944.03125 -902.5625 L -944.03125 -912.6875 C -944.03125 -913.76088 -944.89537 -914.625 -945.96875 -914.625 L -956.09375 -914.625 z M -955 -911.625 L -954 -911.625 C -953.73118 -911.62067 -953.46596 -911.50909 -953.28125 -911.3125 L -951 -909.03125 L -948.6875 -911.3125 C -948.50279 -911.50909 -948.23757 -911.62067 -947.96875 -911.625 L -946.96875 -911.625 C -946.96875 -911.625 -946.9988 -910.8872 -947 -910.625 C -947.001 -910.35483 -947.08369 -910.09187 -947.28125 -909.90625 L -949.5625 -907.625 L -947.25 -905.3125 C -947.06663 -905.13431 -946.96475 -904.87984 -946.96875 -904.625 L -947 -903.625 L -948 -903.625 C -948.23338 -903.5402 -948.51388 -903.72758 -948.6875 -903.90625 L -951 -906.21875 L -953.3125 -903.90625 C -953.48612 -903.72758 -953.73537 -903.5402 -953.96875 -903.625 L -954.96875 -903.625 L -955 -904.625 C -955.004 -904.87984 -954.90212 -905.13431 -954.71875 -905.3125 L -952.40625 -907.625 L -954.6875 -909.90625 C -954.88506 -910.09187 -954.96775 -910.35483 -954.96875 -910.625 C -954.96995 -910.8872 -955 -911.625 -955 -911.625 z "
-       id="rect14230" />
+       d="m -956.09375,-964.625 c -1.07338,0 -1.9375,0.86412 -1.9375,1.9375 l 0,10.125 c 0,1.07337 0.86412,1.9375 1.9375,1.9375 l 10.125,0 c 1.07338,0 1.9375,-0.86413 1.9375,-1.9375 l 0,-10.125 c 0,-1.07338 -0.86412,-1.9375 -1.9375,-1.9375 l -10.125,0 z m 1.09375,3 1,0 c 0.26882,0.004 0.53404,0.11591 0.71875,0.3125 l 2.28125,2.28125 2.3125,-2.28125 c 0.18471,-0.19659 0.44993,-0.30817 0.71875,-0.3125 l 1,0 c 0,0 -0.03,0.7378 -0.0312,1 -10e-4,0.27017 -0.0837,0.53313 -0.28125,0.71875 l -2.28125,2.28125 2.3125,2.3125 c 0.18337,0.17819 0.28525,0.43266 0.28125,0.6875 l -0.0312,1 -1,0 c -0.23338,0.0848 -0.51388,-0.10258 -0.6875,-0.28125 l -2.3125,-2.3125 -2.3125,2.3125 c -0.17362,0.17867 -0.42287,0.36605 -0.65625,0.28125 l -1,0 -0.0312,-1 c -0.004,-0.25484 0.0979,-0.50931 0.28125,-0.6875 l 2.3125,-2.3125 -2.28125,-2.28125 c -0.19756,-0.18562 -0.28025,-0.44858 -0.28125,-0.71875 -10e-4,-0.2622 -0.0312,-1 -0.0312,-1 z"
+       id="rect14230"
+       inkscape:connector-curvature="0" />
     <path
        sodipodi:nodetypes="ssssssssscccccccccscccsccccc"
        inkscape:connector-curvature="0"
@@ -1569,7 +1570,7 @@
        xml:space="preserve"
        id="flowRoot14736"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="translate(-9.825,-502)"><flowRegion
+       transform="translate(-9.825,-552)"><flowRegion
          id="flowRegion14738"><rect
            id="rect14740"
            width="157.5"
@@ -1578,7 +1579,7 @@
            y="-234.63782"
            style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#2e3436;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
          id="flowPara14742">Get More From Your...</flowPara></flowRoot>    <image
-       y="-735.63782"
+       y="-785.63782"
        x="-1108"
        id="image14880"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAA1FJREFU OI0tzMtrHHUAwPHv7zczu7ObnZ1sNrt5rzFajUQh2kAJ2mgRjY9LEdQepChiei1aIY0HwYPRg9BD KdhDFaOeKqWBikq0pSVoaSu2DQlq1KQxado8Nvua98OLnz/gI+I45s/XC6eByV2fb1wbOnRyqHvp 17c6MvWRK60jRYDAD5YCz18m5oyeSU0BXP10DADxfxADHL314oc1s+3AcfNU3/W5GrXTWwCsb1a5 9NM8i3+sMvTP2R8OGt9+4DvOLID8SFdeA8j1RUyWzk0cN0/15foiPC9koxGwWfdxUWnqKJL0Kkwc rD3r6dkZsyf/CoBMG8pT0lQAKDxqkrlfBcBxI1pfauGbwTxWLBCGDqpG0HsPg68O6JYjTxYGiu2y KSt2axkZqWaOwIsILUnowt7hFvYOt/CYCXdqAb6i4Sk63900ae1vI9eVMt2af1RmcqIzaUQSALtK 7MR4Thutz73JpZ+3uf31XSrVkK01m0jVmF/0qFQCunbnCWr2PjXZFGWRIQCeK1AGSgCo2jxaEjZW tonrO9TX1ggjhWsLkpQMkTkd1wr7VTXlJ4lAicr8dtFi86urBMkYgCPd75O6cBFVVRBODS9U6G22 aM5us2PbhF6gSgVRL6/6+K7g4SdSFIwIw4C3i+NIPcWx+iSTTV/i1hsEdoMnu29BeRtv+Q5qQliq dPlxfdHbX+xSyZiS1lKCNiE4nz5Bkx5QjVLcmDlPeO/TaNVlDg0u4K57bF3fhiC6qRzoFYpdC19I SEUz8gpGIUkcaeyUbZZXfJb+bjCeH+cNcZb3nv+dXbkGlaUdFm5IZCL/mZgeJY0lZtNqcrB/j05C V3BtBdfRuHK5Au0GadGgVPTp7U1io3L7rxobjVS1OV94UEyPghOwx7PFdLueKJYe0jFMCRH4UqKK CN+JCJwYTYuxZMTKquPMbTJ2nxpOqQAvz8SXDz8ixh5wvRP2XNBpJlRyWQUhBbEmkKogDH027Ziy jXVuKTq8vxRPAYjpUQAouz26t17fZwWVY5ks3flsnJaJGAEQSzykd3eNLU02v6vlU2dyyRULQPSl BQCzM9/TPvwM7/SonYrL43rMiAYdgHThX1eKX6JEfOGTlWBt8YuPGTsywaoT8x+u1nfsxnu+xwAA AABJRU5ErkJggg== "
@@ -1604,7 +1605,7 @@
            width="157.5"
            id="rect13764" /></flowRegion><flowPara
          id="flowPara13766">Reading Queue</flowPara></flowRoot>    <flowRoot
-       transform="translate(8.175,-478)"
+       transform="translate(8.175,-528)"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot17305"
        xml:space="preserve"><flowRegion
@@ -1616,14 +1617,14 @@
            width="157.5"
            id="rect17309" /></flowRegion><flowPara
          id="flowPara17311">HSBC - Internet B...</flowPara></flowRoot>    <image
-       y="-711.63782"
+       y="-761.63782"
        x="-1108"
        id="image33532"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAetJREFU OI3Nk09IkwEYxn/f/nybm04FLTJzgwZhaV2NSSllUB6MGSXCwtJFSzTMEQV1CK1DdKtDmFKHsENQ SYPs0i2wQ9CfTXQDM8ogNmHzmxtbfbwdFuLolod64IX38LzP+77wPIqIsBEYNjT9XwiY1vUDxOPN +P0a4UgVVmuuiKnrJsxmnaHz7/B4bpDLQWkZJnS9QEinFXy+4yTiVzDQRiRcVyRgNIL3aJDR62fY v+8tNVte4nSBTD1Fbt2slKamVwIiFRV7ZfjCNnG5YgIiIGI05qS7q0NGriHl5d/EZtOkr7dFJh9i IJWqZHziCTMzrQAkk2XMzX2hP9COe3sMuz1Pz8luGhunyGZtqGqWTKaUyUfPWFzsQQYHgmubCnVI fD5E05BQ6KJcvvRZVtNI6DkyPGSX6uqFNa7b/d1Es+cB09PtRGMtv79VWE7A/QknY/d8fF3aTFo7 TG3tCywWgILzrNZl+gMHDTgcCU6f6mLP7jcAOBwaO+s3cftOiHCkgWTSwt2xx8zOtlFSsko+b0NV U3g7jlDn/KhIPl84KJXq5VjnOCsrQTJZP9HojmLHGKDTe473HwY50NrH1prX7GpAWZcFL/H4CUZH ND4tVKFa/vSBatY5G5jH47nKj59gNhcJ/BX+fRZ+AQEMy7gf10/RAAAAAElFTkSuQmCC "
        height="16"
        width="16" />
     <image
-       y="-789.63782"
+       y="-839.63782"
        x="-1096"
        id="image18806"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAntJREFU OI2lk8tLVVEUxn9773Pu69xrJd1EspuVZU8oJ2UEldELiaKEgrRhTYL+jQoaRINoFhpSEFGBUEgN LAiJyl5k0QPF0swUH5nec/ZeDa5Z0WPSGqzB+hbf+u0PthIR/qfUo3qOofUJQcenpwLghnDu8JoL cvnfBg1qpKJmd8bzFIgDZ0Es+a+TvLt/d9xO5KurmuXJ3ww8QSe9ZBrbcWF6OJGHnkGDDW0KzeOH 9er3y4V224ucIGMfp4Uwgt5BTa56O0FJ7veTIoBgv47Q2XKxxrMiqrPtNlE0hZQIyK2vIZUE19OO WVlH2HYcXPgr+uoGQgEPwSzaWU9yVnFBcRbX/wz3/jFe3SXMvHXI55fYV9d/JTGayII3GQnJbAn2 SeOUEEMlZqLnVGLK1tJz4yTZyj3ogQ4Qh4wPFDLQmtCBFzpQxqDiCQBiB25AcjaI8LG9CfPmKqb6 IH79LZSXJHpwBvvoHBg1ZWALON8Nhns6MUGWt81HSKshSrMBz09tILN0O/PrTjH84Q1F8QTKaEIL OnKgjELFE6h4gr5rRxnvvseqYy3kyrP4QYpVm2tZuP80r88fQnrbCrue+fGEnwkqKssYGn3Hl/4u UrOXoErXM/aqlZQoSoNB0uniHyFOZ+DFIZEGNACZJVtxfgy96Sz5/hekt9ZiozxFy7Ygnx4CgvJj hBY8q7SbDH3tBxUoPwA/xcDTVjIrdvH27D60hBQt3syM5TuwI45McRUSfWFidBKntfOUc23dd1o3 lpckFQiIkBobpu/5TeaVlJGIBXx+2UJXexPz5+aIfA8RoevDuODcHdW4jQXGcCW0rP7Lf/lj+YYO a9n7DYwUBrGoIAPIAAAAAElFTkSuQmCC "
@@ -1633,7 +1634,7 @@
        xml:space="preserve"
        id="flowRoot18809"
        style="font-size:19.15633392px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="matrix(0.68337332,0,0,0.67391304,-337.30929,-632.00135)"><flowRegion
+       transform="matrix(0.68337332,0,0,0.67391304,-337.30929,-682.00135)"><flowRegion
          id="flowRegion18811"><rect
            id="rect18813"
            width="252.21719"
@@ -1661,14 +1662,14 @@
            y="-670.14996"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold" /></flowRegion><flowPara
          id="flowPara19238">EPIPHANY</flowPara></flowRoot>    <image
-       y="-765.63782"
+       y="-815.63782"
        x="-1096"
        id="image33364"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAApBJREFU OI2Vk11Ik3EUxn/vfNc2LTGL9UmR2VIy7cOIQgj39sXyYl1UFH1cJBkkLYJuJMirxG5qVHRTjG6K iLILtbp4K0oolU0pC5o2U9Spc+nc2ua29u+iFSMt6gfn7jwPh3POI5nNZtJRVdUEHAI2pgrAmao7 iqK40/ulnwaqqkqAzTcxVPfG/UTfM+qix+9E1mrIMxZjMpayfc3hiDZDVwPYFUURvwxS4sYOd4vl 4esbDIXcjMU+ozUIZL2EpIFkAhYaVnPafJ2VC0qagQpFUYScmsQ2FY9YVNcDjmw/h2nJOqLxr/SM OXF6m3ANN+OfHMEb+si5e7u4tO+pJX9RiQ24IgkhTEAnYOAP+CJ9eAPdtPc+pandgVFn4urx5xGt rFsnpxb2R7Gj4yy+qIdAaBzLShvfiiUaWm7S2HbbsHfriYOatE1PYzTYz4D/E1UlN8mTt9HgtGPd UI0kMujqbQMo/atB5qxsAoEJ3va/4uGba0TD3zBmL6OswMoHjxNgo2YmYb/PTSwRZbYuByX/GHdb L5K/pIiq8nqEECTjEI8lAJD58SAV6QbBrxPYbuzGWlbJtiIrm1bsJjtzHp7hd5y/fYjWdy/YUrgT wCkJIWqBC79P0dHdgtp5n7HgIL7JAUbGB8nNWsye0qOMjg9hnLuYA+ZTtQghTEKIsPgHksmkeOZ6 JCrrzSIcDYWFECZZURS3qqo1sXj0suPxJaZiEXJmzyc7ay5yhkw8EScyFaJ7sIsuTxtefx9XzzRi 0GXVKIri/vmJ9lla/Y5NBeWWWkcl/sDwjFdZkLuUy9UNrF9V1gzYYYYwfQn66h69vKV/39vOhz4n kqShcPkG1uZtZn/5yUimfs70MKXzv3H+DjZKQVYnuH0uAAAAAElFTkSuQmCC "
        height="16"
        width="16" />
     <flowRoot
-       transform="matrix(0.68337332,0,0,0.67391304,-337.30929,-608.37635)"
+       transform="matrix(0.68337332,0,0,0.67391304,-337.30929,-658.37635)"
        style="font-size:19.15633392px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot33367"
        xml:space="preserve"><flowRegion
@@ -1681,7 +1682,7 @@
            id="rect33371" /></flowRegion><flowPara
          id="flowPara33373">Welcome - SUSE St...</flowPara></flowRoot>    <g
        id="g34093"
-       transform="translate(-1086.9998,-711.63782)"
+       transform="translate(-1086.9998,-761.63782)"
        style="fill:#888a85">
       <g
          style="fill:#888a85;display:inline"
@@ -1839,14 +1840,14 @@
          id="flowPara34251">Opens the Reading Queue</flowPara></flowRoot>    <rect
        ry="8"
        rx="8"
-       y="-735.6109"
+       y="-785.6109"
        x="-1258.6361"
        height="21.343147"
        width="125.21446"
        id="rect34253"
        style="color:#000000;fill:#fff49a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
     <flowRoot
-       transform="translate(32.828427,85.69848)"
+       transform="translate(32.828427,35.69848)"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#414141;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot34255"
        xml:space="preserve"><flowRegion
@@ -1863,14 +1864,14 @@
        width="125.21446"
        height="33.36396"
        x="-1258.6361"
-       y="-825.6109"
+       y="-875.6109"
        rx="8"
        ry="8" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot34265"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#414141;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(32.828427,-4.30152)"><flowRegion
+       transform="translate(32.828427,-54.30152)"><flowRegion
          id="flowRegion34267"><rect
            id="rect34269"
            width="112.10915"
@@ -1881,14 +1882,14 @@
          id="flowPara34271">Nested pages spawned from the first opened page</flowPara></flowRoot>    <rect
        ry="8"
        rx="8"
-       y="-825.6109"
+       y="-875.6109"
        x="-1258.6361"
        height="33.36396"
        width="125.21446"
        id="rect34273"
        style="color:#000000;fill:#fff49a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
     <flowRoot
-       transform="translate(32.828427,-4.30152)"
+       transform="translate(32.828427,-54.30152)"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#414141;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot34275"
        xml:space="preserve"><flowRegion
@@ -1905,14 +1906,14 @@
        width="125.21446"
        height="33.36396"
        x="-1258.6361"
-       y="-925.6109"
+       y="-975.6109"
        rx="8"
        ry="8" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot34285"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#414141;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(32.828427,-104.30152)"><flowRegion
+       transform="translate(32.828427,-154.30152)"><flowRegion
          id="flowRegion34287"><rect
            id="rect34289"
            width="112.10915"
@@ -1923,14 +1924,14 @@
          id="flowPara34291">The current page always has a close button visible</flowPara></flowRoot>    <rect
        ry="8"
        rx="8"
-       y="-965.6109"
+       y="-1015.6109"
        x="-1258.6361"
        height="33.36396"
        width="125.21446"
        id="rect34293"
        style="color:#000000;fill:#fff49a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
     <flowRoot
-       transform="translate(32.828427,-144.30152)"
+       transform="translate(32.828427,-194.30152)"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#414141;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot34295"
        xml:space="preserve"><flowRegion
@@ -2264,7 +2265,7 @@
        xml:space="preserve"
        id="flowRoot4989"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="translate(-9.5,-411.7969)"><flowRegion
+       transform="translate(-10.5,-427.7969)"><flowRegion
          id="flowRegion4991"><rect
            id="rect4993"
            width="174"
@@ -2273,7 +2274,7 @@
            y="-234.63782"
            style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#2e3436;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
          id="flowPara4995">Downloads</flowPara></flowRoot>    <flowRoot
-       transform="translate(-5.5,-388.7969)"
+       transform="translate(-6.5,-404.7969)"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot3910"
        xml:space="preserve"><flowRegion
@@ -2285,8 +2286,8 @@
            width="174"
            id="rect3914" /></flowRegion><flowPara
          id="flowPara3916">presentation.pnpnt</flowPara></flowRoot>    <image
-       y="-646.63782"
-       x="-1106"
+       y="-662.63782"
+       x="-1108"
        id="image17302"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAilJREFU OI2lkc9LVFEYhp9z59zRK4SWLWYkJCHJVrbNhZrZDxWF3NXWaJmbQhfRpkWI9hcYBK2jZdFChcxF OKiTLcKZgkBHB8yZkRmdO+fcc1oM3chJN33wbr73PQ8v5xPWWv5nxKOJsXEhnCkEdUdgOWO4PzM1 +/pkwOS9/Z7u/lOOI7DWYExV5XKZ1bXEgfaDK9PTs5+PA0hrrGeMJv3ta7isKEVubx+lVAMOyYcT Y/9+HInMS60VB4elcKm1Jp8rcOv6IC0t546t7vtlXr560SeNQawkElRUBQDP87ja209TUxObm+lj AfF4G1oHSCAyMnKbM6ebAbDWUCzm2d3dIggC3r1fYGjgWg2gUvHRWiN936exsZHM9veaUERKxh9M kk4narzAaLTSOFoHYC1SujUSwmHm+dN/eliLVgGOUhorBNKNhlpZXSeTyVJX38CTx8+QbpStrR0+ Ln0KMwiB0hqplUYArnTDeu0XLrG4OI8bdZGRCJnNDMnkOkODo7jSACAEaKWRWmuEU23wezo6LhKN eszNvSWfK5BKpbl5Y4RY/CzFUr4KcJzqJ2oVUD48RCk/BOz627S2ttDV1cvS0gJ9fQPE4s3s7WXD jFYKpQKksZjUxhfH8/40AMju/CAWO8/dO2OUSllSG6t/+cXiAdZgpDXmw/LySk9nZ7s4eqpC4SfR aD2VSrnmjMlkyhoTLIrh4e42x3HfKKUu16ROGNd114xRo78AtPQLD6Fs98EAAAAASUVORK5CYII= "
        height="16"
@@ -2294,17 +2295,17 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot14125"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="translate(-5.5,-365.7969)"><flowRegion
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       transform="translate(-6.5,-381.7969)"><flowRegion
          id="flowRegion14127"><rect
            id="rect14129"
            width="174"
            height="63.5"
            x="-1075"
            y="-234.63782"
-           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#888a85;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
          id="flowPara14131">virus.zip</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.88769023,0,0,0.88769023,-126.11979,-378.75674)"
+       transform="matrix(0.88769023,0,0,0.88769023,-127.11979,-394.75674)"
        style="font-size:14.64474869px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot3450"
        xml:space="preserve"><flowRegion
@@ -2315,5 +2316,13 @@
            height="63.5"
            width="174"
            id="rect3454" /></flowRegion><flowPara
-         id="flowPara3456">5 minutes remaining</flowPara></flowRoot>  </g>
+         id="flowPara3456">5 minutes remaining</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:#ededed;fill-opacity:1;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       id="rect4783"
+       width="181"
+       height="1"
+       x="-1120"
+       y="573.63782"
+       transform="scale(1,-1)" />
+  </g>
 </svg>
