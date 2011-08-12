@@ -297,24 +297,6 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient14687"
-       id="linearGradient7436"
-       gradientUnits="userSpaceOnUse"
-       x1="-942.09692"
-       y1="-255.95934"
-       x2="-942.09692"
-       y2="-233.6376" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient14687"
-       id="linearGradient7438"
-       gradientUnits="userSpaceOnUse"
-       x1="-1022"
-       y1="-244.64563"
-       x2="-893.00001"
-       y2="-244.64563" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient14687"
        id="linearGradient7440"
        gradientUnits="userSpaceOnUse"
        x1="-1022"
@@ -339,10 +321,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-588.27535"
-     inkscape:cy="1951.9451"
+     inkscape:cx="-607.03521"
+     inkscape:cy="1847.4091"
      inkscape:document-units="px"
-     inkscape:current-layer="g7422"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="843"
@@ -401,7 +383,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="color:#000000;fill:#888a85;fill-opacity:0.81176472000000000;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       style="color:#000000;fill:#eeeeec;fill-opacity:0.81176472000000000;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
        id="rect7420"
        width="812"
        height="48"
@@ -2168,7 +2150,7 @@
        id="rect3451"
        width="309.00003"
        height="31"
-       x="-437.50003"
+       x="-437.5"
        y="-1096.1378"
        rx="4.4999995"
        ry="4.5" />
@@ -2391,12 +2373,12 @@ AkJwNr4uaq/XkunpX2/B/wIAAFKa1kWBfg0IUgAw9zsj9IeOe2BmtwAAAABJRU5ErkJggg==
        rx="8"
        y="-1093.4564"
        x="-85.845985"
-       height="33.36396"
-       width="142.18503"
+       height="64.476662"
+       width="155.97362"
        id="rect7410"
        style="color:#000000;fill:#fff49a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
     <flowRoot
-       transform="translate(1205.6186,-272.14719)"
+       transform="translate(1205.6186,-271.14719)"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#414141;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot7412"
        xml:space="preserve"><flowRegion
@@ -2404,36 +2386,14 @@ AkJwNr4uaq/XkunpX2/B/wIAAFKa1kWBfg0IUgAw9zsj9IeOe2BmtwAAAABJRU5ErkJggg==
            style="font-size:8px;text-align:start;text-anchor:start;fill:#414141;fill-opacity:1"
            y="-815.63782"
            x="-1280"
-           height="27.393406"
-           width="132.61523"
+           height="65.393433"
+           width="137.61523"
            id="rect7416" /></flowRegion><flowPara
-         id="flowPara7418">Contextual page actions</flowPara></flowRoot>    <g
+         id="flowPara7418">Contextual page actions.</flowPara><flowPara
+         id="flowPara7446" /><flowPara
+         id="flowPara7444">This &quot;toolbar&quot; is stuck on the top and scrolls with the page (think of Android's address bar).</flowPara></flowRoot>    <g
        id="g7422"
        transform="translate(102.01481,-836)"
-       style="fill:url(#linearGradient7442);fill-opacity:1">
-      <rect
-         ry="4.0606604"
-         rx="4.0606604"
-         y="-258.14563"
-         x="-1021.5"
-         height="27"
-         width="127.99999"
-         id="rect7424"
-         style="opacity:0.98333333;color:#000000;fill:url(#linearGradient7436);fill-opacity:1;fill-rule:nonzero;stroke:#a8a8a8;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot7426"
-         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-         transform="translate(95,-18)"><flowRegion
-           id="flowRegion7428"
-           style="fill:url(#linearGradient7438);fill-opacity:1"><rect
-             id="rect7430"
-             width="174"
-             height="18.5"
-             x="-1075"
-             y="-234.63782"
-             style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
-           id="flowPara7432"
-           style="fill:#2e3436;fill-opacity:1">New Page</flowPara></flowRoot>    </g>
+       style="fill:url(#linearGradient7442);fill-opacity:1" />
   </g>
 </svg>
