@@ -302,9 +302,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="-1249.0066"
-     inkscape:cy="1797.7866"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="-989.13765"
+     inkscape:cy="2097.7963"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -741,7 +741,7 @@
          height="16"
          xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAANZJREFU OI3Fkb8OwVAYxX+ki8Fu5Q2k9QKNwWy2dujiDYikickuYrUaTAYJL9DajRaLVST+9H4GVFsUEXGm +93z5dz8zoV/K/XMMKyBC+iX0XP7NePRXjohXHdsE8c2CQV9FPCWvg7QrocY850MayChMehEC13q nXqZgxJSwMG/7Tu2iQiInFtv9qbBQ+EANjuf5XqLCCglKIHtXvB94agEpaCQyzxGALxWbxZBqFZK AIwmbpzIe4YaYR7PV9IeLiTGH9Hvv7GYzyb6WoLnNbpB26+Z/6YTVHJLC8aZchkAAAAASUVORK5C YII= "
          id="image4153"
-         x="-1000"
+         x="-1000.0148"
          y="-252.63782" />
     </g>
     <g
@@ -2073,7 +2073,7 @@
            width="174"
            id="rect3454" /></flowRegion><flowPara
          id="flowPara3456">5 minutes remaining</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.60275084,0,0,0.60275084,-1015.6834,-448.58405)"
+       transform="matrix(0.60275084,0,0,0.60275084,-938.6834,-448.58405)"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot3462"
        xml:space="preserve"><flowRegion
@@ -2099,12 +2099,33 @@
        xml:space="preserve"
        id="flowRoot3602"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.60275084,0,0,0.60275084,-1005.6834,-528.58405)"><flowRegion
+       transform="matrix(0.60275084,0,0,0.60275084,-928.6834,-528.58405)"><flowRegion
          id="flowRegion3604"><rect
            id="rect3606"
            width="470"
            height="559"
            x="-1488"
            y="-939.63782" /></flowRegion><flowPara
-         id="flowPara3608">global</flowPara></flowRoot>  </g>
+         id="flowPara3608">global</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:#fff49a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       id="rect3441"
+       width="142.18503"
+       height="33.36396"
+       x="-1119.6361"
+       y="-1148.6108"
+       rx="8"
+       ry="8" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3443"
+       style="font-size:8px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#414141;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(171.82843,-327.30152)"><flowRegion
+         id="flowRegion3445"><rect
+           id="rect3447"
+           width="132.61523"
+           height="27.393406"
+           x="-1280"
+           y="-815.63782"
+           style="font-size:8px;text-align:start;text-anchor:start;fill:#414141;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara3449">Tabs are always saved on quit, but not necessarily loaded</flowPara></flowRoot>  </g>
 </svg>
