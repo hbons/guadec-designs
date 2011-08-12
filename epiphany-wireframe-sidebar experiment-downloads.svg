@@ -203,8 +203,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="689.43229"
-     inkscape:cy="385.0453"
+     inkscape:cx="518.43229"
+     inkscape:cy="383.0453"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1070,5 +1070,12 @@
        x="-198"
        y="-853.36218"
        transform="scale(1,-1)" />
+    <rect
+       style="color:black;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       id="rect7420-4"
+       width="812"
+       height="1"
+       x="-21"
+       y="375.36218" />
   </g>
 </svg>
