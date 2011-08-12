@@ -22,6 +22,18 @@
   <defs
      id="defs4">
     <linearGradient
+       inkscape:collect="always"
+       id="linearGradient13723">
+      <stop
+         style="stop-color:#f25050;stop-opacity:1"
+         offset="0"
+         id="stop13725" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop13727" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient12945"
        inkscape:collect="always">
       <stop
@@ -31,7 +43,7 @@
       <stop
          id="stop12949"
          offset="1"
-         style="stop-color:#eefbe1;stop-opacity:1" />
+         style="stop-color:#ffffff;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -241,8 +253,18 @@
        x1="-942.09692"
        y1="-307.12027"
        x2="-942.09692"
-       y2="-236.68509"
+       y2="-231.37849"
        gradientTransform="matrix(1.2500001,0,0,1,1269.3899,-111.70874)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient13723"
+       id="linearGradient13721"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2500001,0,0,1,1269.3899,-61.70874)"
+       x1="-942.09692"
+       y1="-307.12027"
+       x2="-942.09692"
+       y2="-230.64525" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -251,9 +273,9 @@
      borderopacity="0.43137255"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="463.52674"
-     inkscape:cy="651.27532"
+     inkscape:zoom="1"
+     inkscape:cx="389.6908"
+     inkscape:cy="692.59508"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -321,6 +343,16 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(324,-257.36221)">
+    <rect
+       ry="4.0606604"
+       rx="4.0606604"
+       y="-319.85437"
+       x="-7.4851999"
+       height="27"
+       width="160"
+       id="rect13719"
+       style="opacity:0.98333333000000001;color:#000000;fill:url(#linearGradient13721);fill-opacity:1;fill-rule:nonzero;stroke:#f68888;stroke-width:0.99999987999999995;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       transform="scale(1,-1)" />
     <rect
        style="color:black;fill:#f7f7f7;fill-opacity:0.81176471;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
        id="rect7420"
@@ -1208,11 +1240,11 @@
     </g>
     <flowRoot
        transform="translate(1095.175,533.00003)"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#a40000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ef2929;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot4767"
        xml:space="preserve"><flowRegion
          id="flowRegion4769"><rect
-           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#a40000;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ef2929;font-family:Cantarell;-inkscape-font-specification:Cantarell"
            y="-234.63782"
            x="-1075"
            height="19.5"
@@ -1220,7 +1252,7 @@
            id="rect4771" /></flowRegion><flowPara
          id="flowPara4773">HSBC Holdings (GB)</flowPara></flowRoot>    <g
        id="g12901"
-       transform="translate(2e-4,296.36221)"
+       transform="translate(2e-4,298.36221)"
        style="fill:#cc0000">
       <g
          style="fill:#cc0000;display:inline"
