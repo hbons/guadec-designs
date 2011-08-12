@@ -20,6 +20,18 @@
      id="defs4">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient7450">
+      <stop
+         style="stop-color:#555753;stop-opacity:1;"
+         offset="0"
+         id="stop7452" />
+      <stop
+         style="stop-color:#555753;stop-opacity:0;"
+         offset="1"
+         id="stop7454" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient14687">
       <stop
          style="stop-color:#fafafa;stop-opacity:1"
@@ -312,6 +324,15 @@
        y1="-244.64563"
        x2="-893.00001"
        y2="-244.64563" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7450"
+       id="linearGradient7456"
+       x1="-464"
+       y1="-911.14856"
+       x2="-464"
+       y2="-1070.6378"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -321,8 +342,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-607.03521"
-     inkscape:cy="1847.4091"
+     inkscape:cx="-629.6368"
+     inkscape:cy="1849.713"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2371,14 +2392,14 @@ AkJwNr4uaq/XkunpX2/B/wIAAFKa1kWBfg0IUgAw9zsj9IeOe2BmtwAAAABJRU5ErkJggg==
     <rect
        ry="8"
        rx="8"
-       y="-1093.4564"
+       y="-1103.4564"
        x="-85.845985"
-       height="64.476662"
+       height="98.476662"
        width="155.97362"
        id="rect7410"
        style="color:#000000;fill:#fff49a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
     <flowRoot
-       transform="translate(1205.6186,-271.14719)"
+       transform="translate(1205.6186,-281.14719)"
        style="font-size:8px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#414141;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot7412"
        xml:space="preserve"><flowRegion
@@ -2386,12 +2407,14 @@ AkJwNr4uaq/XkunpX2/B/wIAAFKa1kWBfg0IUgAw9zsj9IeOe2BmtwAAAABJRU5ErkJggg==
            style="font-size:8px;text-align:start;text-anchor:start;fill:#414141;fill-opacity:1"
            y="-815.63782"
            x="-1280"
-           height="65.393433"
+           height="88.393433"
            width="137.61523"
            id="rect7416" /></flowRegion><flowPara
          id="flowPara7418">Contextual page actions.</flowPara><flowPara
          id="flowPara7446" /><flowPara
-         id="flowPara7444">This &quot;toolbar&quot; is stuck on the top and scrolls with the page (think of Android's address bar).</flowPara></flowRoot>    <g
+         id="flowPara7444">This &quot;toolbar&quot; is stuck on the top and scrolls with the page (think of Android's address bar).</flowPara><flowPara
+         id="flowPara7460" /><flowPara
+         id="flowPara7462">(Maybe we can even place this at the bottom?)</flowPara></flowRoot>    <g
        id="g7422"
        transform="translate(102.01481,-836)"
        style="fill:url(#linearGradient7442);fill-opacity:1" />
