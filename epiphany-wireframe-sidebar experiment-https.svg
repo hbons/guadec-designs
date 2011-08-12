@@ -274,8 +274,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="648.50515"
-     inkscape:cy="377.54617"
+     inkscape:cx="638.23503"
+     inkscape:cy="636.64761"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1179,6 +1179,18 @@
        ry="4.0606604"
        transform="scale(1,-1)" />
     <flowRoot
+       transform="translate(1095.175,584.00003)"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       id="flowRoot13729"
+       xml:space="preserve"><flowRegion
+         id="flowRegion13731"><rect
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill-opacity:1"
+           y="-234.63782"
+           x="-1075"
+           height="19.5"
+           width="157.5"
+           id="rect13733" /></flowRegion><flowPara
+         id="flowPara13735">HSBC Holdings (GB)</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4468"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
@@ -1239,6 +1251,18 @@
          id="g4496" />
     </g>
     <flowRoot
+       xml:space="preserve"
+       id="flowRoot13737"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       transform="translate(1095.175,534.00003)"><flowRegion
+         id="flowRegion13739"><rect
+           id="rect13741"
+           width="157.5"
+           height="19.5"
+           x="-1075"
+           y="-234.63782"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara13743">HSBC Holdings (GB)</flowPara></flowRoot>    <flowRoot
        transform="translate(1095.175,533.00003)"
        style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#f57900;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot4767"
