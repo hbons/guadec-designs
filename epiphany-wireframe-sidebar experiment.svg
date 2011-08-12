@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="epiphany-wireframe-sidebar experiment.svg.2011_08_12_12_54_58.0.svg">
+   sodipodi:docname="epiphany-wireframe-sidebar experiment.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -320,9 +320,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="-905.27061"
-     inkscape:cy="1938.1525"
+     inkscape:zoom="1"
+     inkscape:cx="-700.04202"
+     inkscape:cy="1765.3121"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1600,10 +1600,8 @@
     </g>
     <path
        style="opacity:0.98333333;color:#000000;fill:#f8fafc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-       d="m -956.09375,-914.625 c -1.07338,0 -1.9375,0.86412 -1.9375,1.9375 l 0,10.125 c 0,1.07337 0.86412,1.9375 1.9375,1.9375 l 10.125,0 c 1.07338,0 1.9375,-0.86413 1.9375,-1.9375 l 0,-10.125 c 0,-1.07338 -0.86412,-1.9375 -1.9375,-1.9375 z"
-       id="rect14230"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sssssssss" />
+       d="M -956.09375 -914.625 C -957.16713 -914.625 -958.03125 -913.76088 -958.03125 -912.6875 L -958.03125 -902.5625 C -958.03125 -901.48913 -957.16713 -900.625 -956.09375 -900.625 L -945.96875 -900.625 C -944.89537 -900.625 -944.03125 -901.48913 -944.03125 -902.5625 L -944.03125 -912.6875 C -944.03125 -913.76088 -944.89537 -914.625 -945.96875 -914.625 L -956.09375 -914.625 z M -955 -911.625 L -954 -911.625 C -953.73118 -911.62067 -953.46596 -911.50909 -953.28125 -911.3125 L -951 -909.03125 L -948.6875 -911.3125 C -948.50279 -911.50909 -948.23757 -911.62067 -947.96875 -911.625 L -946.96875 -911.625 C -946.96875 -911.625 -946.9988 -910.8872 -947 -910.625 C -947.001 -910.35483 -947.08369 -910.09187 -947.28125 -909.90625 L -949.5625 -907.625 L -947.25 -905.3125 C -947.06663 -905.13431 -946.96475 -904.87984 -946.96875 -904.625 L -947 -903.625 L -948 -903.625 C -948.23338 -903.5402 -948.51388 -903.72758 -948.6875 -903.90625 L -951 -906.21875 L -953.3125 -903.90625 C -953.48612 -903.72758 -953.73537 -903.5402 -953.96875 -903.625 L -954.96875 -903.625 L -955 -904.625 C -955.004 -904.87984 -954.90212 -905.13431 -954.71875 -905.3125 L -952.40625 -907.625 L -954.6875 -909.90625 C -954.88506 -910.09187 -954.96775 -910.35483 -954.96875 -910.625 C -954.96995 -910.8872 -955 -911.625 -955 -911.625 z "
+       id="rect14230" />
     <path
        sodipodi:nodetypes="ssssssssscccccccccscccsccccc"
        inkscape:connector-curvature="0"
@@ -2317,17 +2315,5 @@
            height="33.050285"
            width="135.44366"
            id="rect7470" /></flowRegion><flowPara
-         id="flowPara7472">The top strip is colored according to the website background color</flowPara></flowRoot>    <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m -954.99978,-911.63758 c 0,0 0.015,0.7414 0.0162,1.0036 10e-4,0.27017 0.10129,0.54006 0.29885,0.72568 l 6.01041,6.0104 c 0.17362,0.17867 0.43174,0.37089 0.66512,0.28609 l 1.01893,-0.0273 0.017,-0.9883 c 0.004,-0.25484 -0.10349,-0.50651 -0.28686,-0.6847 l -6.01041,-6.01042 c -0.18471,-0.19659 -0.45289,-0.2945 -0.72171,-0.29883 z"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="csccscsccsc"
-       id="path501" />
-    <path
-       sodipodi:nodetypes="csccscsccsc"
-       inkscape:connector-curvature="0"
-       d="m -946.97316,-911.63758 c 0,0 -0.015,0.7414 -0.0162,1.0036 -10e-4,0.27017 -0.10129,0.54006 -0.29885,0.72568 l -6.01041,6.0104 c -0.17362,0.17867 -0.43174,0.37089 -0.66512,0.28609 l -1.01893,-0.0273 -0.017,-0.9883 c -0.004,-0.25484 0.10349,-0.50651 0.28686,-0.6847 l 6.01041,-6.01042 c 0.18471,-0.19659 0.45289,-0.2945 0.72171,-0.29883 z"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       id="path9507" />
-  </g>
+         id="flowPara7472">The top strip is colored according to the website background color</flowPara></flowRoot>  </g>
 </svg>
