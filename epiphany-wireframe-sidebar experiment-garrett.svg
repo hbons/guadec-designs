@@ -302,9 +302,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="-209.12187"
-     inkscape:cy="2060.1833"
+     inkscape:zoom="1"
+     inkscape:cx="-337.68997"
+     inkscape:cy="1883.5037"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -776,7 +776,7 @@
        height="599"
        width="5.9947972"
        id="rect4869-7"
-       style="color:#000000;fill:#ededed;fill-opacity:0.98431582;stroke:#aeafa9;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       style="color:#000000;fill:#f5f5f5;fill-opacity:0.98431373;stroke:#aeafa9;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
        transform="scale(-1,1)" />
     <path
        style="color:#000000;fill:#9e9e91;fill-opacity:0.99608053;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
@@ -2120,7 +2120,7 @@
            y="-815.63782"
            style="font-size:8px;text-align:start;text-anchor:start;fill:#414141;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara3449">Tabs are always saved on quit, but not necessarily loaded</flowPara></flowRoot>    <rect
-       style="color:#000000;fill:#ededed;fill-opacity:0.98431373;fill-rule:nonzero;stroke:#adafaa;stroke-width:1;stroke-opacity:0.78431373;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       style="color:#000000;fill:#f5f5f5;fill-opacity:0.98431373;fill-rule:nonzero;stroke:#adafaa;stroke-width:1;stroke-opacity:0.78431373000000004;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
        id="rect3451"
        width="309.00003"
        height="31"
@@ -2316,7 +2316,7 @@ AkJwNr4uaq/XkunpX2/B/wIAAFKa1kWBfg0IUgAw9zsj9IeOe2BmtwAAAABJRU5ErkJggg==
        height="84.000122"
        width="126"
        id="rect7408"
-       style="color:#000000;fill:#ededed;fill-opacity:0.98431373;fill-rule:nonzero;stroke:#adafaa;stroke-width:0.99999994;stroke-opacity:0.78431373;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+       style="color:#000000;fill:#f5f5f5;fill-opacity:0.98431373;fill-rule:nonzero;stroke:#adafaa;stroke-width:0.99999994000000003;stroke-opacity:0.78431373000000004;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
     <flowRoot
        transform="matrix(0.68337332,0,0,0.67391304,496.59807,-900.50135)"
        style="font-size:17.68276978px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
