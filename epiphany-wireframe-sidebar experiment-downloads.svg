@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="epiphany-wireframe-sidebar experiment-downloads.svg">
+   sodipodi:docname="epiphany-wireframe-sidebar experiment-downloads.svg"
+   inkscape:export-filename="./epiphany-wireframe-sidebar experiment-downloads.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <linearGradient
@@ -200,8 +203,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="730.43229"
-     inkscape:cy="371.0453"
+     inkscape:cx="689.43229"
+     inkscape:cy="385.0453"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -243,7 +246,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1065,7 +1068,7 @@
        width="195"
        height="1"
        x="-198"
-       y="-854.36218"
+       y="-853.36218"
        transform="scale(1,-1)" />
   </g>
 </svg>
