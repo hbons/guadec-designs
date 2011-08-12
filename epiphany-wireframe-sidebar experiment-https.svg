@@ -274,8 +274,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="458.50515"
-     inkscape:cy="595.54617"
+     inkscape:cx="648.50515"
+     inkscape:cy="377.54617"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -769,14 +769,14 @@
        height="24"
        width="181"
        id="rect5739"
-       style="color:#000000;fill:#ade25f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+       style="color:#000000;fill:#599ee8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
     <flowRoot
        transform="translate(919.175,913)"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#305e04;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot17305"
        xml:space="preserve"><flowRegion
          id="flowRegion17307"><rect
-           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#305e04;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill-opacity:1"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill-opacity:1"
            y="-234.63782"
            x="-1075"
            height="19.5"
@@ -998,7 +998,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:white;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:white;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;opacity:0.5"
        d="m 767.92893,355.3622 3.55763,3.5576 L 775,355.4064"
        id="path7385"
        inkscape:connector-curvature="0" />
