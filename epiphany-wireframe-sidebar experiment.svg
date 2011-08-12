@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
+   width="2038.6826"
+   height="2206.8406"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.1 r9760"
@@ -186,7 +186,7 @@
        id="linearGradient14693"
        x1="-1022"
        y1="-244.64563"
-       x2="-893.00001"
+       x2="-893"
        y2="-244.64563"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
@@ -218,7 +218,7 @@
        gradientUnits="userSpaceOnUse"
        x1="-1022"
        y1="-244.64563"
-       x2="-893.00001"
+       x2="-893"
        y2="-244.64563" />
     <linearGradient
        inkscape:collect="always"
@@ -227,7 +227,7 @@
        gradientUnits="userSpaceOnUse"
        x1="-1022"
        y1="-244.64563"
-       x2="-893.00001"
+       x2="-893"
        y2="-244.64563" />
     <linearGradient
        inkscape:collect="always"
@@ -283,7 +283,7 @@
        gradientUnits="userSpaceOnUse"
        x1="-1022"
        y1="-244.64563"
-       x2="-893.00001"
+       x2="-893"
        y2="-244.64563" />
     <linearGradient
        inkscape:collect="always"
@@ -292,7 +292,7 @@
        gradientUnits="userSpaceOnUse"
        x1="-1022"
        y1="-244.64563"
-       x2="-893.00001"
+       x2="-893"
        y2="-244.64563" />
     <linearGradient
        inkscape:collect="always"
@@ -301,7 +301,7 @@
        gradientUnits="userSpaceOnUse"
        x1="-1022"
        y1="-244.64563"
-       x2="-893.00001"
+       x2="-893"
        y2="-244.64563" />
     <linearGradient
        inkscape:collect="always"
@@ -310,7 +310,7 @@
        gradientUnits="userSpaceOnUse"
        x1="-1022"
        y1="-244.64563"
-       x2="-893.00001"
+       x2="-893"
        y2="-244.64563" />
   </defs>
   <sodipodi:namedview
@@ -321,8 +321,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-796.62609"
-     inkscape:cy="1795.0555"
+     inkscape:cx="1375.9288"
+     inkscape:cy="1098.0555"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -341,7 +341,11 @@
      inkscape:bbox-nodes="false"
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:snap-bbox-midpoints="false"
-     inkscape:snap-to-guides="false">
+     inkscape:snap-to-guides="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <inkscape:grid
        type="xygrid"
        id="grid7795"
@@ -367,7 +371,8 @@
      id="layer2"
      inkscape:label="Layer"
      style="display:inline"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     transform="translate(1968.5549,1870.4784)">
     <image
        y="-341.63782"
        x="-1325"
@@ -381,9 +386,10 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(1968.5549,1870.4784)">
     <rect
-       style="color:#000000;fill:#f7f7f7;fill-opacity:0.81176472;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       style="color:#000000;fill:#f7f7f7;fill-opacity:0.81176471;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
        id="rect7420"
        width="812"
        height="40"
