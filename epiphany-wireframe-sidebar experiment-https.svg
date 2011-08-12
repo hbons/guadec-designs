@@ -22,6 +22,18 @@
   <defs
      id="defs4">
     <linearGradient
+       id="linearGradient12945"
+       inkscape:collect="always">
+      <stop
+         id="stop12947"
+         offset="0"
+         style="stop-color:#8ae234;stop-opacity:1" />
+      <stop
+         id="stop12949"
+         offset="1"
+         style="stop-color:#eefbe1;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
        inkscape:collect="always"
        id="linearGradient14687">
       <stop
@@ -194,6 +206,43 @@
        y1="-244.64563"
        x2="-893"
        y2="-244.64563" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14687"
+       id="linearGradient12929"
+       gradientUnits="userSpaceOnUse"
+       x1="-942.09692"
+       y1="-255.95934"
+       x2="-942.09692"
+       y2="-233.6376" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14687"
+       id="linearGradient12933"
+       gradientUnits="userSpaceOnUse"
+       x1="-1022"
+       y1="-244.64563"
+       x2="-893"
+       y2="-244.64563" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14687"
+       id="linearGradient12935"
+       gradientUnits="userSpaceOnUse"
+       x1="-1022"
+       y1="-244.64563"
+       x2="-893"
+       y2="-244.64563" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12945"
+       id="linearGradient12943"
+       gradientUnits="userSpaceOnUse"
+       x1="-942.09692"
+       y1="-307.12027"
+       x2="-942.09692"
+       y2="-236.68509"
+       gradientTransform="matrix(1.2500001,0,0,1,1269.3899,-111.70874)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -202,9 +251,9 @@
      borderopacity="0.43137255"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="845.76629"
-     inkscape:cy="661.69536"
+     inkscape:zoom="2"
+     inkscape:cx="463.52674"
+     inkscape:cy="651.27532"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1087,10 +1136,20 @@
        id="path6256"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
+    <rect
+       style="opacity:0.98333333000000001;color:#000000;fill:url(#linearGradient12943);fill-opacity:1;fill-rule:nonzero;stroke:#8ae234;stroke-width:0.99999987999999995;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       id="rect12917"
+       width="160"
+       height="27"
+       x="-7.4851999"
+       y="-369.85437"
+       rx="4.0606604"
+       ry="4.0606604"
+       transform="scale(1,-1)" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4468"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        transform="translate(1095.175,583.00003)"><flowRegion
          id="flowRegion4470"><rect
            id="rect4472"
@@ -1098,7 +1157,7 @@
            height="19.5"
            x="-1075"
            y="-234.63782"
-           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#2e3436;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#4e9a06;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
          id="flowPara4474">HSBC Holdings (GB)</flowPara></flowRoot>    <g
        style="fill:#4e9a06"
        transform="translate(2e-4,348.36221)"
