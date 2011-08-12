@@ -25,7 +25,7 @@
        inkscape:collect="always"
        id="linearGradient13723">
       <stop
-         style="stop-color:#f25050;stop-opacity:1"
+         style="stop-color:#fcaf3e;stop-opacity:1"
          offset="0"
          id="stop13725" />
       <stop
@@ -274,8 +274,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="389.6908"
-     inkscape:cy="692.59508"
+     inkscape:cx="540.15922"
+     inkscape:cy="569.27957"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -351,7 +351,7 @@
        height="27"
        width="160"
        id="rect13719"
-       style="opacity:0.98333333000000001;color:#000000;fill:url(#linearGradient13721);fill-opacity:1;fill-rule:nonzero;stroke:#f68888;stroke-width:0.99999987999999995;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       style="opacity:0.98333333000000001;color:#000000;fill:url(#linearGradient13721);fill-opacity:1;fill-rule:nonzero;stroke:#f57900;stroke-width:0.99999987999999995;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
        transform="scale(1,-1)" />
     <rect
        style="color:black;fill:#f7f7f7;fill-opacity:0.81176471;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
@@ -1240,11 +1240,11 @@
     </g>
     <flowRoot
        transform="translate(1095.175,533.00003)"
-       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ef2929;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#f57900;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot4767"
        xml:space="preserve"><flowRegion
          id="flowRegion4769"><rect
-           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ef2929;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#f57900;font-family:Cantarell;-inkscape-font-specification:Cantarell"
            y="-234.63782"
            x="-1075"
            height="19.5"
@@ -1253,22 +1253,22 @@
          id="flowPara4773">HSBC Holdings (GB)</flowPara></flowRoot>    <g
        id="g12901"
        transform="translate(2e-4,298.36221)"
-       style="fill:#cc0000">
+       style="fill:#f57900">
       <g
-         style="fill:#cc0000;display:inline"
+         style="fill:#f57900;display:inline"
          id="layer9-6"
          transform="translate(-201.0002,-237)">
         <g
-           style="fill:#cc0000;fill-opacity:1"
+           style="fill:#f57900;fill-opacity:1"
            id="g4053-3"
            transform="translate(181.0002,-39)" />
         <path
-           style="color:#bebebe;fill:#cc0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible"
+           style="color:#bebebe;fill:#f57900;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible"
            id="rect4063-6"
            d="m 204,246 c -0.554,0 -1,0.446 -1,1 l 0,0.53125 0,5.46875 12,0 0,-5.46875 L 215,247 c 0,-0.554 -0.446,-1 -1,-1 l -10,0 z"
            inkscape:connector-curvature="0" />
         <path
-           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#bebebe;fill:#cc0000;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#bebebe;fill:#f57900;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
            id="rect4291-4"
            d="m 208,237 c -1.64469,0 -3,1.35529 -3,3 l 0,3 2,0 0,-3 c 0,-0.57129 0.42873,-1 1,-1 l 2,0 c 0.57127,0 1,0.42871 1,1 l 0,7 2,0 0,-7 c 0,-1.64471 -1.35531,-3 -3,-3 l -2,0 z"
            inkscape:connector-curvature="0" />
@@ -1276,27 +1276,27 @@
       <g
          id="layer10-8"
          transform="translate(-201.0002,-237)"
-         style="fill:#cc0000" />
+         style="fill:#f57900" />
       <g
          id="layer11-3"
          transform="translate(-201.0002,-237)"
-         style="fill:#cc0000" />
+         style="fill:#f57900" />
       <g
          id="layer12-8"
          transform="translate(-201.0002,-237)"
-         style="fill:#cc0000" />
+         style="fill:#f57900" />
       <g
          id="layer13-3"
          transform="translate(-201.0002,-237)"
-         style="fill:#cc0000" />
+         style="fill:#f57900" />
       <g
          id="layer14-3"
          transform="translate(-201.0002,-237)"
-         style="fill:#cc0000" />
+         style="fill:#f57900" />
       <g
          id="layer15-3"
          transform="translate(-201.0002,-237)"
-         style="fill:#cc0000" />
+         style="fill:#f57900" />
     </g>
   </g>
 </svg>
