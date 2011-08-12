@@ -294,6 +294,42 @@
        y1="-244.64563"
        x2="-893.00001"
        y2="-244.64563" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14687"
+       id="linearGradient7436"
+       gradientUnits="userSpaceOnUse"
+       x1="-942.09692"
+       y1="-255.95934"
+       x2="-942.09692"
+       y2="-233.6376" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14687"
+       id="linearGradient7438"
+       gradientUnits="userSpaceOnUse"
+       x1="-1022"
+       y1="-244.64563"
+       x2="-893.00001"
+       y2="-244.64563" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14687"
+       id="linearGradient7440"
+       gradientUnits="userSpaceOnUse"
+       x1="-1022"
+       y1="-244.64563"
+       x2="-893.00001"
+       y2="-244.64563" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14687"
+       id="linearGradient7442"
+       gradientUnits="userSpaceOnUse"
+       x1="-1022"
+       y1="-244.64563"
+       x2="-893.00001"
+       y2="-244.64563" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -303,10 +339,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-616.07796"
-     inkscape:cy="1868.1138"
+     inkscape:cx="-588.27535"
+     inkscape:cy="1951.9451"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="g7422"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="843"
@@ -364,6 +400,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="color:#000000;fill:#888a85;fill-opacity:0.81176472000000000;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       id="rect7420"
+       width="812"
+       height="48"
+       x="-932"
+       y="-1104.6378" />
     <image
        y="-1780.4784"
        x="-1123.4111"
@@ -524,11 +567,11 @@
            id="rect4887" /></flowRegion><flowPara
          id="flowPara4889">GNOME</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.68337332,0,0,0.67391304,-337.40193,-736.00135)"
-       style="font-size:17.68277034px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       style="font-size:17.68276978px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot4913"
        xml:space="preserve"><flowRegion
          id="flowRegion4915"><rect
-           style="font-size:17.68277034px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#2e3436;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           style="font-size:17.68276978px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#2e3436;font-family:Cantarell;-inkscape-font-specification:Cantarell"
            y="-234.63782"
            x="-1075"
            height="60.532257"
@@ -592,7 +635,7 @@
          id="flowPara3041">hbons/SparkleShare - G...</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3045"
-       style="font-size:17.68277034px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       style="font-size:17.68276978px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        transform="matrix(0.68337332,0,0,0.67391304,-337.30929,-685.00135)"><flowRegion
          id="flowRegion3047"><rect
            id="rect3049"
@@ -600,14 +643,14 @@
            height="63.5"
            x="-1075"
            y="-234.63782"
-           style="font-size:17.68277034px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#2e3436;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
+           style="font-size:17.68276978px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#2e3436;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
          id="flowPara3051">SparkleShare Wiki</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.68337332,0,0,0.67391304,-337.30929,-665.00135)"
-       style="font-size:17.68277034px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       style="font-size:17.68276978px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot3055"
        xml:space="preserve"><flowRegion
          id="flowRegion3057"><rect
-           style="font-size:17.68277034px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           style="font-size:17.68276978px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell"
            y="-234.63782"
            x="-1075"
            height="59.790321"
@@ -1385,11 +1428,11 @@
        y="59.362183" />
     <flowRoot
        transform="matrix(0.68337332,0,0,0.67391304,-337.40193,-785.00135)"
-       style="font-size:17.68277034px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       style="font-size:17.68276978px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot4893"
        xml:space="preserve"><flowRegion
          id="flowRegion4895"><rect
-           style="font-size:17.68277034px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#2e3436;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           style="font-size:17.68276978px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#2e3436;font-family:Cantarell;-inkscape-font-specification:Cantarell"
            y="-234.63782"
            x="-1075"
            height="63.5"
@@ -1527,7 +1570,7 @@
            height="63.5"
            x="-1075"
            y="-234.63782"
-           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#888a85;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill-opacity:1" /></flowRegion><flowPara
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#888a85;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
          id="flowPara14131">virus.zip</flowPara></flowRoot>    <rect
        transform="scale(1,-1)"
        y="1006.6378"
@@ -1683,7 +1726,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot18809"
-       style="font-size:17.68277034px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       style="font-size:17.68276978px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        transform="matrix(0.68337332,0,0,0.67391304,-337.30929,-647.00135)"><flowRegion
          id="flowRegion18811"><rect
            id="rect18813"
@@ -1691,7 +1734,7 @@
            height="59.790321"
            x="-1075"
            y="-234.63782"
-           style="font-size:17.68277034px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
+           style="font-size:17.68276978px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
          id="flowPara18815">SparkleShare - Sharin...</flowPara></flowRoot>    <image
        y="-1628.4785"
        x="-585.11774"
@@ -1735,7 +1778,7 @@
        transform="translate(-1086.9998,-733.63782)"
        style="fill:#888a85">
       <g
-         style="display:inline;fill:#888a85"
+         style="fill:#888a85;display:inline"
          id="layer9"
          transform="translate(-181.0002,-237)">
         <g
@@ -2121,7 +2164,7 @@
            y="-815.63782"
            style="font-size:8px;text-align:start;text-anchor:start;fill:#414141;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara3449">Tabs are always saved on quit, but not necessarily loaded</flowPara></flowRoot>    <rect
-       style="color:#000000;fill:#f5f5f5;fill-opacity:0.98431373;fill-rule:nonzero;stroke:#adafaa;stroke-width:1;stroke-opacity:0.78431373000000004;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       style="color:#000000;fill:#f5f5f5;fill-opacity:0.98431373;fill-rule:nonzero;stroke:#adafaa;stroke-width:1;stroke-opacity:0.78431373;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
        id="rect3451"
        width="309.00003"
        height="31"
@@ -2292,7 +2335,7 @@ AkJwNr4uaq/XkunpX2/B/wIAAFKa1kWBfg0IUgAw9zsj9IeOe2BmtwAAAABJRU5ErkJggg==
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="color:#000000;fill:#559dec;fill-opacity:0.98431373000000000;fill-rule:nonzero;stroke:#1f7ee6;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       style="color:#000000;fill:#559dec;fill-opacity:0.98431373;fill-rule:nonzero;stroke:#1f7ee6;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
        d="m -212.5625,-1096.1239 80.04688,0 c 2.216,0 4,1.784 4,4 l 0,22.9722 c 0,2.216 -1.784,4 -4,4 l -80.04688,0 z"
        id="rect7405"
        inkscape:connector-curvature="0"
@@ -2300,7 +2343,7 @@ AkJwNr4uaq/XkunpX2/B/wIAAFKa1kWBfg0IUgAw9zsj9IeOe2BmtwAAAABJRU5ErkJggg==
     <flowRoot
        xml:space="preserve"
        id="flowRoot7363"
-       style="font-size:17.68276978000000099px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+       style="font-size:17.68276978px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        transform="matrix(0.68337332,0,0,0.67391304,533.2638,-929.36616)"><flowRegion
          id="flowRegion7365"><rect
            id="rect7367"
@@ -2308,7 +2351,7 @@ AkJwNr4uaq/XkunpX2/B/wIAAFKa1kWBfg0IUgAw9zsj9IeOe2BmtwAAAABJRU5ErkJggg==
            height="31.596773"
            x="-1075"
            y="-234.63782"
-           style="font-size:17.68276978000000099px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill-opacity:1" /></flowRegion><flowPara
+           style="font-size:17.68276978px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
          id="flowPara7369">Add to...</flowPara></flowRoot>    <rect
        ry="4.5"
        rx="4.4999995"
@@ -2317,7 +2360,7 @@ AkJwNr4uaq/XkunpX2/B/wIAAFKa1kWBfg0IUgAw9zsj9IeOe2BmtwAAAABJRU5ErkJggg==
        height="84.000122"
        width="126"
        id="rect7408"
-       style="color:#000000;fill:#f5f5f5;fill-opacity:0.98431373;fill-rule:nonzero;stroke:#adafaa;stroke-width:0.99999994000000003;stroke-opacity:0.78431373000000004;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+       style="color:#000000;fill:#f5f5f5;fill-opacity:0.98431373;fill-rule:nonzero;stroke:#adafaa;stroke-width:0.99999994;stroke-opacity:0.78431373;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
     <flowRoot
        transform="matrix(0.68337332,0,0,0.67391304,496.59807,-900.50135)"
        style="font-size:17.68276978px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
@@ -2364,5 +2407,33 @@ AkJwNr4uaq/XkunpX2/B/wIAAFKa1kWBfg0IUgAw9zsj9IeOe2BmtwAAAABJRU5ErkJggg==
            height="27.393406"
            width="132.61523"
            id="rect7416" /></flowRegion><flowPara
-         id="flowPara7418">Contextual page actions</flowPara></flowRoot>  </g>
+         id="flowPara7418">Contextual page actions</flowPara></flowRoot>    <g
+       id="g7422"
+       transform="translate(102.01481,-836)"
+       style="fill:url(#linearGradient7442);fill-opacity:1">
+      <rect
+         ry="4.0606604"
+         rx="4.0606604"
+         y="-258.14563"
+         x="-1021.5"
+         height="27"
+         width="127.99999"
+         id="rect7424"
+         style="opacity:0.98333333;color:#000000;fill:url(#linearGradient7436);fill-opacity:1;fill-rule:nonzero;stroke:#a8a8a8;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot7426"
+         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         transform="translate(95,-18)"><flowRegion
+           id="flowRegion7428"
+           style="fill:url(#linearGradient7438);fill-opacity:1"><rect
+             id="rect7430"
+             width="174"
+             height="18.5"
+             x="-1075"
+             y="-234.63782"
+             style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1;font-family:Cantarell;-inkscape-font-specification:Cantarell" /></flowRegion><flowPara
+           id="flowPara7432"
+           style="fill:#2e3436;fill-opacity:1">New Page</flowPara></flowRoot>    </g>
+  </g>
 </svg>
