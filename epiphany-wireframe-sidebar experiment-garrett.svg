@@ -303,10 +303,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-337.68997"
-     inkscape:cy="1883.5037"
+     inkscape:cx="-616.07796"
+     inkscape:cy="1868.1138"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="843"
@@ -348,6 +348,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer"
+     style="display:inline"
      sodipodi:insensitive="true">
     <image
        y="-341.63782"
@@ -357,7 +358,7 @@
        height="900"
        width="1440"
        clip-path="url(#clipPath8248-2-9)"
-       transform="translate(85,-59)" />
+       transform="translate(85,-879)" />
   </g>
   <g
      inkscape:label="Layer 1"
@@ -1781,7 +1782,7 @@
        xml:space="preserve"
        id="flowRoot34109"
        style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-       transform="matrix(1.5613064,0,0,1.5613064,780.94421,-706.28731)"><flowRegion
+       transform="matrix(1.5613064,0,0,1.5613064,780.94421,-116.28731)"><flowRegion
          id="flowRegion34111"><rect
            id="rect34113"
            width="157.5"
@@ -1793,7 +1794,7 @@
        xml:space="preserve"
        id="flowRoot34117"
        style="font-size:16.9459877px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="matrix(0.91921873,0,0,0.90649352,263.79289,-791.56332)"><flowRegion
+       transform="matrix(0.91921873,0,0,0.90649352,263.79289,-201.56332)"><flowRegion
          id="flowRegion34119"><rect
            id="rect34121"
            width="753.65137"
@@ -1807,7 +1808,7 @@
          id="flowPara34145">Where to insert the Linux CD</flowPara><flowPara
          id="flowPara34147">My final year project in Uni, what do you think?</flowPara><flowPara
          id="flowPara34149">Using a thumb drive to store all of my sensitive information - a complete plan</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.91921873,0,0,0.90649352,-6.20707,-791.56332)"
+       transform="matrix(0.91921873,0,0,0.90649352,-6.20707,-201.56332)"
        style="font-size:16.9459877px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:150%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#babdb6;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        id="flowRoot34151"
        xml:space="preserve"><flowRegion
@@ -2016,7 +2017,7 @@
        xml:space="preserve"
        id="flowRoot3412"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.60275084,0,0,0.60275084,-705.68337,-448.58405)"><flowRegion
+       transform="matrix(0.60275084,0,0,0.60275084,-842.86209,-686.17193)"><flowRegion
          id="flowRegion3414"><rect
            id="rect3416"
            width="470"
@@ -2065,7 +2066,7 @@
            width="174"
            id="rect3454" /></flowRegion><flowPara
          id="flowPara3456">5 minutes remaining</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.60275084,0,0,0.60275084,-938.6834,-448.58405)"
+       transform="matrix(0.60275084,0,0,0.60275084,-1075.8621,-686.17193)"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot3462"
        xml:space="preserve"><flowRegion
@@ -2077,7 +2078,7 @@
            id="rect3466" /></flowRegion><flowPara
          id="flowPara3484">fullscreen</flowPara><flowPara
          id="flowPara3610">privacy settings/clearing</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.60275084,0,0,0.60275084,-705.68337,-528.58405)"
+       transform="matrix(0.60275084,0,0,0.60275084,-842.86209,-766.17193)"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot3530"
        xml:space="preserve"><flowRegion
@@ -2091,7 +2092,7 @@
        xml:space="preserve"
        id="flowRoot3602"
        style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.60275084,0,0,0.60275084,-928.6834,-528.58405)"><flowRegion
+       transform="matrix(0.60275084,0,0,0.60275084,-1065.8621,-766.17193)"><flowRegion
          id="flowRegion3604"><rect
            id="rect3606"
            width="470"
@@ -2342,5 +2343,26 @@ AkJwNr4uaq/XkunpX2/B/wIAAFKa1kWBfg0IUgAw9zsj9IeOe2BmtwAAAABJRU5ErkJggg==
        d="m -147.07107,-1081.6378 3.55763,3.5576 3.51344,-3.5134"
        id="path7385"
        inkscape:connector-curvature="0" />
-  </g>
+    <rect
+       ry="8"
+       rx="8"
+       y="-1093.4564"
+       x="-85.845985"
+       height="33.36396"
+       width="142.18503"
+       id="rect7410"
+       style="color:#000000;fill:#fff49a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+    <flowRoot
+       transform="translate(1205.6186,-272.14719)"
+       style="font-size:8px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#414141;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot7412"
+       xml:space="preserve"><flowRegion
+         id="flowRegion7414"><rect
+           style="font-size:8px;text-align:start;text-anchor:start;fill:#414141;fill-opacity:1"
+           y="-815.63782"
+           x="-1280"
+           height="27.393406"
+           width="132.61523"
+           id="rect7416" /></flowRegion><flowPara
+         id="flowPara7418">Contextual page actions</flowPara></flowRoot>  </g>
 </svg>
